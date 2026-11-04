@@ -90,7 +90,7 @@ the generated files are overwritten at the next update; see
 
 More sermons and more authors will be added, including complete cycles where
 the editions allow. I also intend to connect the library to the liturgical
-calendar in the manner of Chant of the Day, so that each day of the year points
+calendar in the manner of [Chant of the Day](https://github.com/financeprofessormckee/Chant-Of-The-Day), so that each day of the year points
 to its sermons. Other possibilities under consideration are a cross-sermon index
 of Scripture and help with Latin and French vocabulary while reading.
 

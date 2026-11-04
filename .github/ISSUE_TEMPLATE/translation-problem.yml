@@ -1,0 +1,25 @@
+name: Problem with a translation
+description: An omission, addition, mistranslation, or misleading rendering in the English.
+title: "Translation: "
+labels: ["translation"]
+body:
+  - type: input
+    id: sermon
+    attributes:
+      label: Sermon and paragraph
+      description: Title, or the ¶ link to the paragraph.
+    validations:
+      required: true
+  - type: textarea
+    id: passage
+    attributes:
+      label: The English, and the original it renders
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The difficulty, and a suggested rendering
+      description: If you are drawing on a published translation or a lexicon, please cite it.
+    validations:
+      required: true

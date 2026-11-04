@@ -1,0 +1,21 @@
+name: Broken link or site problem
+description: A link that does not work, or a fault in reading, search, or browsing.
+title: "Site: "
+labels: ["site"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page address
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What you did, what you expected, and what happened
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device

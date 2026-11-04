@@ -1,0 +1,26 @@
+name: Suggest a sermon or edition
+description: A sermon, author, or edition that could be added to the library.
+title: "Suggestion: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: sermon
+    attributes:
+      label: Author and sermon
+      description: Include the feast or season for which it was preached, if known.
+    validations:
+      required: true
+  - type: textarea
+    id: edition
+    attributes:
+      label: Edition
+      description: Title, editor, place, publisher, year, volume, and pages or columns.
+  - type: input
+    id: scan
+    attributes:
+      label: Link to a digitized copy
+  - type: textarea
+    id: rights
+    attributes:
+      label: Rights status and existing translations
+      description: Anything known about the rights status of the edition, and any English translation already published.

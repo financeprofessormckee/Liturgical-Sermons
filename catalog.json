@@ -1,0 +1,1558 @@
+{
+  "schema_version": 1,
+  "site_url": "https://financeprofessormckee.github.io/Liturgical-Sermons/",
+  "licence": {
+    "historical_editions": "Public domain in the United States",
+    "translations_introductions_notes": "CC BY 4.0",
+    "software": "MIT"
+  },
+  "sermons": [
+    {
+      "id": "bourdaloue-careme-ambition",
+      "title": "On Ambition",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Mercredi de la seconde Semaine [du Carême]",
+        "english_label": "Lent"
+      },
+      "calendar_1962": "Lent",
+      "topics": [
+        "ambition",
+        "vocation",
+        "humility",
+        "charity",
+        "suffering",
+        "responsibility"
+      ],
+      "scripture": [
+        "Matthew 11",
+        "Matthew 20 (printed references; adapted service sayings identified separately)",
+        "Matthew — chapter numeral uncertain in print; following Ibidem./Ibid. retained",
+        "Matthew 20:22–23 — added by editors; printed chapter remains uncertain",
+        "Matthew 20:26 / Luke 22:26 — parallels added by editors for adapted service sayings",
+        "Sirach 15:14 — added by editors; no printed marginal locator",
+        "Hebrews 5 (damaged initial H supplied)",
+        "Psalm 82 (historical numbering)",
+        "Isaiah 53",
+        "Hebrews 1",
+        "Matthew 10 (printed locator; quotation identified separately)",
+        "Matthew 20:26 — reference added by editors for Non ita erit inter vos",
+        "1 Peter 5",
+        "Psalm 118 (historical numbering)",
+        "1 Timothy 3"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Pere Bourdaloue, de la Compagnie de Jesus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, Directeur de l'Imprimerie Royale, 1716), Sermon pour le Mercredi de la seconde Semaine. Sur l'Ambition, pp. 502–546. Kelly Library copy.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-careme-ambition.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-careme-ambition.html"
+    },
+    {
+      "id": "bourdaloue-careme-aumone",
+      "title": "On Almsgiving",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Premier vendredi du Carême",
+        "english_label": "Lent"
+      },
+      "calendar_1962": "Lent",
+      "topics": [
+        "almsgiving",
+        "charity",
+        "justice",
+        "mercy",
+        "repentance",
+        "wealth",
+        "Lent"
+      ],
+      "scripture": [
+        "Matthew 25",
+        "Proverbs 3",
+        "1 John 3",
+        "2 Corinthians 8",
+        "Song of Songs 2",
+        "Philippians 1",
+        "2 Corinthians 6",
+        "Proverbs 25",
+        "Isaiah 61",
+        "Hebrews 13",
+        "Matthew 5",
+        "Matthew 6",
+        "Ecclesiasticus 29",
+        "Galatians 6",
+        "Psalm 36 (source numbering)",
+        "James 2"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdaloue, de la Compagnie de Jésus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, 1716), Sur l’Aumône, sermon pour le I. vendredi du Caresme, pp. 145–194.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour/page/n154/mode/1up",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-careme-aumone.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-careme-aumone.html"
+    },
+    {
+      "id": "bourdaloue-careme-communion",
+      "title": "On Communion",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Premier Jeudi du Carême",
+        "english_label": "Lent"
+      },
+      "calendar_1962": "Lent",
+      "topics": [
+        "Eucharist",
+        "Communion",
+        "penance",
+        "conversion",
+        "humility",
+        "hypocrisy",
+        "Church",
+        "salvation"
+      ],
+      "scripture": [
+        "Matthew 8",
+        "Luke 5",
+        "John 6 (printed chapter locator and repeated quotations)",
+        "1 Corinthians 11",
+        "Matthew 26",
+        "Luke 14",
+        "I Regum 2 (printed historical book numbering)",
+        "Matthew 23"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Pere Bourdaloue, de la Compagnie de Jesus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, Directeur de l'Imprimerie Royale,1716), Sermon pour le premier Jeudi du Caresme. Sur la Communion, pp.97–144. Kelly Library copy.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-careme-communion.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-careme-communion.html"
+    },
+    {
+      "id": "bourdaloue-careme-predestination",
+      "title": "On Predestination: Presumption and Despair",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Vendredi de la première Semaine [du Carême]",
+        "english_label": "Lent"
+      },
+      "calendar_1962": "Lent",
+      "topics": [
+        "predestination",
+        "grace",
+        "free will",
+        "presumption",
+        "despair",
+        "hope"
+      ],
+      "scripture": [
+        "John 5",
+        "Psalm 17 (historical numbering)",
+        "Lamentations 5",
+        "Isaiah 45",
+        "1 Peter 5",
+        "Matthew 26",
+        "Psalm 26 (historical numbering)",
+        "2 Peter — chapter numeral uncertain in print",
+        "2 Peter 1:10 — added by editors; printed chapter remains uncertain",
+        "1 Thessalonians — chapter numeral uncertain at image edge",
+        "1 Thessalonians 5:21 — added by editors; printed chapter remains uncertain",
+        "1 Corinthians 1",
+        "Psalm 155 (printed locator; apparent reference error)",
+        "Psalm 55:5 (56:5 in modern numbering) — reference added by editors for the adapted quotation",
+        "Ephesians 4",
+        "2 Timothy 4 (printed locator; quotation identified separately)",
+        "2 Timothy 1:12 — added by editors",
+        "Wisdom 1",
+        "Jeremiah 5 (printed locator; quotation identified separately)",
+        "Jeremiah 31:3 — added by editors",
+        "Romans 11",
+        "Psalm 30 (historical numbering)",
+        "Proverbs 1:24, 26 — added by editors; no printed marginal locator",
+        "1 Corinthians 9 (additional printed locator beside the 1 Timothy quotation)",
+        "1 Timothy 2",
+        "Matthew 23",
+        "Psalm 5",
+        "Psalm 58 (historical numbering)",
+        "Psalm 50 (historical numbering)",
+        "Psalm 61 (historical numbering)"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Pere Bourdaloue, de la Compagnie de Jesus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, Directeur de l'Imprimerie Royale, 1716), Sermon pour le Vendredi de la première Semaine. Sur la Prédestination, pp. 378–425. Kelly Library copy.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-careme-predestination.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-careme-predestination.html"
+    },
+    {
+      "id": "bourdaloue-careme-priere",
+      "title": "On Prayer",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Jeudi de la première Semaine [du Carême]",
+        "english_label": "Lent"
+      },
+      "calendar_1962": "Lent",
+      "topics": [
+        "prayer",
+        "salvation",
+        "grace",
+        "humility",
+        "faith",
+        "confidence",
+        "perseverance",
+        "providence",
+        "conversion"
+      ],
+      "scripture": [
+        "Matthew 15",
+        "Psalm 148 (historical numbering; printed locator)",
+        "John 15",
+        "Joshua 10",
+        "James 4",
+        "Isaiah 43",
+        "Matthew 6",
+        "2 Maccabees — chapter numeral worn, best read 9",
+        "John — chapter numeral damaged, tentative 16",
+        "John 16",
+        "Genesis 27",
+        "Hebrews 5",
+        "John 17",
+        "Psalm 26 (historical numbering)",
+        "Psalm 76 (historical numbering)",
+        "Psalm 6 (printed locator; apparent reference anomaly)",
+        "Sirach 25",
+        "Matthew 10 (printed locator; apparent reference anomaly)",
+        "James 1",
+        "Sirach 2",
+        "Isaiah 28",
+        "Psalm 108 (historical numbering)",
+        "Psalm 5 (historical numbering)",
+        "Luke 11"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Pere Bourdaloue, de la Compagnie de Jesus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, Directeur de l'Imprimerie Royale, 1716), Sermon pour le Jeudi de la première Semaine. Sur la Prière, pp.334–377. Kelly Library copy.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-careme-priere.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-careme-priere.html"
+    },
+    {
+      "id": "bourdaloue-cendres-ceremonie",
+      "title": "On the Ceremony of Ashes",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Mercredi des Cendres",
+        "english_label": "Ash Wednesday"
+      },
+      "calendar_1962": "Ash Wednesday",
+      "topics": [
+        "Ash Wednesday",
+        "repentance",
+        "humility",
+        "mortification",
+        "death",
+        "conversion"
+      ],
+      "scripture": [
+        "Exodus 9",
+        "Philippians 4",
+        "Ecclesiasticus 10",
+        "Psalm 48 (the edition's numbering)",
+        "Job 13",
+        "Ezekiel 28",
+        "Micah 6",
+        "Psalm 43 (the edition's numbering)",
+        "1 Peter 5",
+        "Joel 2",
+        "Ecclesiasticus 19",
+        "Romans 12",
+        "Galatians 5",
+        "2 Corinthians 4",
+        "1 Corinthians 9",
+        "Genesis 6",
+        "Job 28",
+        "Jeremiah 6"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdaloue, de la Compagnie de Jésus, pour le Caresme, tome premier, nouvelle édition (Paris: aux dépens de Rigaud, 1716), Autre sermon pour le mercredi des Cendres: Sur la Cérémonie des Cendres, pp. 52–96.",
+        "edition_year": 1716,
+        "url": "https://archive.org/details/sermonsduper171601bour/page/n61/mode/1up",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-cendres-ceremonie.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-cendres-ceremonie.html"
+    },
+    {
+      "id": "bourdaloue-mysteres-ascension",
+      "title": "On the Ascension: Heavenly Glory and Christian Suffering",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Ascension de Jesus-Christ",
+        "english_label": "Ascension"
+      },
+      "calendar_1962": "The Ascension of the Lord",
+      "topics": [
+        "Ascension",
+        "heaven",
+        "merit",
+        "grace",
+        "suffering"
+      ],
+      "scripture": [
+        "Acts 1",
+        "Philippians 3",
+        "1 John 3",
+        "Ecclesiasticus 3",
+        "1 Corinthians 12 (printed locator; apparent reference error)",
+        "2 Corinthians 12:4 — added by editors",
+        "John 14",
+        "Luke 22",
+        "Matthew 25",
+        "Psalm 149",
+        "Ecclesiasticus 16",
+        "Colossians 1",
+        "1 Corinthians 1",
+        "Timothy 4 (epistle numeral unclear in source)",
+        "2 Timothy 4:8 — added by editors",
+        "2 Corinthians 4 (printed locator; apparent reference error)",
+        "1 Corinthians 4:4 — added by editors",
+        "Matthew 5",
+        "Psalm 4",
+        "Matthew 6",
+        "Luke 24",
+        "Psalm 142 (historical numbering)",
+        "Romans 5",
+        "Luke 6",
+        "Acts 14",
+        "Romans 8"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdalouë, de la Compagnie de Jesus, sur les mystères, tome premier, quatrième édition, edited by François de Paule Bretonneau (Paris: chez Rigaud, 1726), Sermon sur l’Ascension de Jesus-Christ, pp. 385–427. Kelly Library copy.",
+        "edition_year": 1726,
+        "url": "https://archive.org/details/sermonsduprebo01bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-mysteres-ascension.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-mysteres-ascension.html"
+    },
+    {
+      "id": "bourdaloue-mysteres-epiphanie",
+      "title": "On the Epiphany: True and False Wisdom",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Épiphanie",
+        "english_label": "Epiphany"
+      },
+      "calendar_1962": "Epiphany",
+      "topics": [
+        "Epiphany",
+        "faith",
+        "wisdom",
+        "conversion",
+        "humility",
+        "self-love"
+      ],
+      "scripture": [
+        "Matthew 2",
+        "Luke 2",
+        "John 9",
+        "Matthew 3",
+        "1 Corinthians 2",
+        "1 Corinthians 1",
+        "John 12",
+        "Matthew 19",
+        "Psalm 25 (source numbering)",
+        "Wisdom 1",
+        "Psalm 24 (source numbering)",
+        "Psalm 9 (source numbering)",
+        "Psalm 68 (source numbering)",
+        "Psalm 104 (source numbering)",
+        "Deuteronomy 32",
+        "1 John 5",
+        "Luke 19",
+        "Apocalypse 19",
+        "Matthew 8",
+        "Acts 13",
+        "1 John 2",
+        "Job 9",
+        "Proverbs 21"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdalouë, de la Compagnie de Jesus, sur les mystères, tome premier, quatrième édition, edited by François de Paule Bretonneau (Paris: chez Rigaud, 1726), Sermon sur l’Épiphanie, pp. 91–140.",
+        "edition_year": 1726,
+        "url": "https://archive.org/details/sermonsduprebo001bour/page/n106/mode/1up",
+        "digitization": "Internet Archive; John Adams Library copy, Boston Public Library.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-mysteres-epiphanie.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-mysteres-epiphanie.html"
+    },
+    {
+      "id": "bourdaloue-mysteres-sacrement",
+      "title": "On the Blessed Sacrament: Christ’s Body and the Church",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Très-saint Sacrement",
+        "english_label": "Corpus Christi"
+      },
+      "calendar_1962": "Corpus Christi",
+      "topics": [
+        "Eucharist",
+        "Corpus Christi",
+        "Church",
+        "adoration",
+        "holiness"
+      ],
+      "scripture": [
+        "John 6",
+        "John 1",
+        "Psalm 57 (printed locator; apparent reference error)",
+        "Psalm 98:5 (historical Vulgate) / 99:5 (modern) — added by editors",
+        "Matthew 9",
+        "Acts 10",
+        "Song of Songs 3",
+        "1 Corinthians 12",
+        "Ephesians 5",
+        "Deuteronomy 4",
+        "Ezekiel 48",
+        "Daniel 2",
+        "Proverbs 8",
+        "Isaiah 2 (printed locator; apparent reference error)",
+        "Isaiah 1:2 — added by editors",
+        "1 Corinthians 9 (printed locator; apparent reference error)",
+        "1 Corinthians 6:15, 19 — added by editors",
+        "1 Corinthians 12:27 — added by editors",
+        "1 Corinthians 1 (printed locator; apparent reference error)",
+        "1 Corinthians 11:27, 29 — added by editors"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdalouë, de la Compagnie de Jesus, sur les mystères, tome premier, quatrième édition, edited by François de Paule Bretonneau (Paris: chez Rigaud, 1726), Sermon sur le très-Saint Sacrement, pp. 512–547. John Adams Library/Boston Public Library copy.",
+        "edition_year": 1726,
+        "url": "https://archive.org/details/sermonsduprebo001bour",
+        "digitization": "Internet Archive; John Adams Library at the Boston Public Library.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-mysteres-sacrement.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-mysteres-sacrement.html"
+    },
+    {
+      "id": "bourdaloue-mysteres-trinite",
+      "title": "On the Most Holy Trinity: Faith, Hope and Charity",
+      "author": "Louis Bourdaloue",
+      "language": "fr",
+      "language_label": "French",
+      "composition": {
+        "label": "Approximately late seventeenth century–1704; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1704,
+        "approximate": true
+      },
+      "centuries": [
+        17,
+        18
+      ],
+      "historical_occasion": {
+        "source_label": "Très-sainte Trinité",
+        "english_label": "Trinity"
+      },
+      "calendar_1962": "Trinity Sunday",
+      "topics": [
+        "Trinity",
+        "faith",
+        "hope",
+        "charity",
+        "holiness"
+      ],
+      "scripture": [
+        "Matthew 28",
+        "John 4",
+        "Genesis 22",
+        "Ephesians 4",
+        "1 Corinthians 1",
+        "John 13",
+        "Exodus 14 (printed locator; see note)",
+        "Exodus 25:40 (added by editors; see note)",
+        "John 17",
+        "Psalm 132 (source numbering)",
+        "1 Corinthians 6"
+      ],
+      "source": {
+        "citation": "Louis Bourdaloue, Sermons du Père Bourdalouë, de la Compagnie de Jesus, sur les mystères, tome premier, quatrième édition, edited by François de Paule Bretonneau (Paris: chez Rigaud, 1726), Sermon sur la très-Sainte Trinité, pp. 476–511. Kelly Library copy.",
+        "edition_year": 1726,
+        "url": "https://archive.org/details/sermonsduprebo01bour",
+        "digitization": "Internet Archive; John M. Kelly Library Rare Books, University of Toronto; sponsored by the University of Ottawa.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/bourdaloue-mysteres-trinite.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/bourdaloue-mysteres-trinite.html"
+    },
+    {
+      "id": "guerric-advent-01",
+      "title": "Advent Sermon I: Waiting for God's Promises",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138–1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "De adventu Domini",
+        "english_label": "Advent"
+      },
+      "calendar_1962": "Advent",
+      "topics": [
+        "Advent",
+        "hope",
+        "patience",
+        "repentance",
+        "Second Coming",
+        "Cross"
+      ],
+      "scripture": [
+        "Titus 2:13",
+        "Matthew 6:21",
+        "Philippians 3:20",
+        "Lamentations 3:24–26",
+        "Habakkuk 2:3",
+        "Romans 8:12 (printed locator; see note)",
+        "Micah 4:9 (printed locator; see note)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, De adventu Domini, sermo I, De divinorum promissorum exspectatione, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier frères, 1879), cols. 11–14.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n9/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-advent-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-advent-01.html"
+    },
+    {
+      "id": "guerric-annunciation-01",
+      "title": "Annunciation Sermon I: The Joy of This Day and the Praises of the Virgin Mother",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138-1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In annuntiatione dominica",
+        "english_label": "Annunciation"
+      },
+      "calendar_1962": "The Annunciation of the Blessed Virgin Mary",
+      "topics": [
+        "Annunciation",
+        "Incarnation",
+        "Virgin Mary",
+        "joy",
+        "humility",
+        "chastity",
+        "prayer"
+      ],
+      "scripture": [
+        "Proverbs 12:25",
+        "Psalm 118:49, 50 (historical numbering)",
+        "Proverbs 9:1 (printed doubled parenthesis retained; see note)",
+        "Luke 1:70 (printed locator; quotation identified as Luke 1:32, see note)",
+        "III Regum 10:18 (historical numbering; modern 1 Kings)",
+        "Matthew 17:1, 2",
+        "III Regum 10:18–20 (historical numbering; modern 1 Kings)",
+        "Psalm 131:14 (historical numbering)",
+        "Song of Songs 5:10",
+        "III Regum 10:20 (historical numbering; modern 1 Kings)",
+        "Mark 6:56",
+        "Luke 6:49 (printed locator; quotation identified as Luke 6:19, see note)",
+        "Luke 1:48 (printed Id.; see note)",
+        "Song of Songs 5:14",
+        "Psalm 44:9, 10 (historical numbering; stacte explained in note)",
+        "1 Thessalonians 4:4, 5",
+        "Genesis 27:27",
+        "Song of Songs 4:11",
+        "Song of Songs 3:6 (printed Id.)",
+        "Song of Songs 4:6 (printed Id.)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In annuntiatione dominica, sermo I, De gaudio hujus diei et de laudibus Virginis matris, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier freres, 1879), cols. 115-119.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n61/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-annunciation-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-annunciation-01.html"
+    },
+    {
+      "id": "guerric-ascension",
+      "title": "Ascension Sermon: Christ's Love for Us and Our Love for Him",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138-1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In die ascensionis Domini",
+        "english_label": "Ascension"
+      },
+      "calendar_1962": "The Ascension of the Lord",
+      "topics": [
+        "Ascension",
+        "love",
+        "Eucharist",
+        "humility",
+        "prayer",
+        "faith",
+        "spiritual combat",
+        "contemplation",
+        "hope"
+      ],
+      "scripture": [
+        "John 17:11, 12",
+        "John 13:1 (printed Id.)",
+        "John 17:11-13, 15, 24 (printed scope)",
+        "Psalm 32:9 (historical numbering)",
+        "John 17:24, 20 (printed order)",
+        "Philippians 1:29",
+        "Matthew 24:28 and Luke 17:37 (combined printed locator; closing parenthesis absent)",
+        "Deuteronomy 32:14 (printed locator retained)",
+        "1 Thessalonians 4:16 (printed locator retained)",
+        "Psalm 17:11 (historical numbering)",
+        "2 Corinthians 12:2",
+        "Psalm 72:25 (historical numbering; closing parenthesis present)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In die ascensionis Domini, Sermo, De amore Christi in nos et de nostro in ipsum, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier freres, 1879), cols. 153-156.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n80/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-ascension.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-ascension.html"
+    },
+    {
+      "id": "guerric-assumption-01",
+      "title": "Assumption Sermon I: Mary's Motherhood and the Throne of God",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138-1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In assumptione B. Mariae",
+        "english_label": "Assumption"
+      },
+      "calendar_1962": "The Assumption of the Blessed Virgin Mary",
+      "topics": [
+        "Assumption",
+        "Mary",
+        "Church",
+        "motherhood",
+        "virginity",
+        "charity",
+        "glory",
+        "contemplation",
+        "hope"
+      ],
+      "scripture": [
+        "Psalm 64:5",
+        "Psalm 131:14",
+        "Isaiah 62:4,5",
+        "Genesis 3",
+        "Galatians 4:19",
+        "Isaiah 62:5",
+        "Psalm 86:7",
+        "Matthew 19:28",
+        "Revelation 3:21",
+        "Psalm 44:14,15",
+        "Wisdom 4:1"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In assumptione B. Mariae, Sermo I, Quod Maria duplici titulo sit mater, quodque recte dicatur thronus Dei, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier freres, 1879), cols. 187-190.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n97/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-assumption-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-assumption-01.html"
+    },
+    {
+      "id": "guerric-epiphany-01",
+      "title": "Epiphany Sermon I: Gifts to Offer the Lord",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138–1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In epiphania Domini",
+        "english_label": "Epiphany"
+      },
+      "calendar_1962": "Epiphany",
+      "topics": [
+        "Epiphany",
+        "poverty",
+        "penance",
+        "prayer",
+        "wisdom",
+        "monastic life"
+      ],
+      "scripture": [
+        "Psalm 28:1–2 (source numbering)",
+        "Proverbs 30:15",
+        "Acts 3:6",
+        "Proverbs 8:20–21, 18",
+        "1 Corinthians 1:4–5, 7 (printed wording; see note)",
+        "Apocalypse 3:17",
+        "Ecclesiasticus 8:6 (printed locator)",
+        "Matthew 13:44",
+        "Jeremiah 41:8",
+        "Job 10:2",
+        "Song of Songs 1:12; 3:6; 4:6, 11 (source numbering)",
+        "Matthew 27:48 (printed locator; see note)",
+        "1 Timothy 4:5 (printed locator; see note)",
+        "Proverbs 25:20; 21:26, 25 (printed locators)",
+        "Isaiah 61:3, 10",
+        "Psalm 29:12–13 (source numbering)",
+        "2 Corinthians 6:12–13",
+        "Job 37:17",
+        "Lamentations 1:13",
+        "Philippians 3:13, 12",
+        "James 1:5"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In epiphania Domini, sermo I, De donis Domino offerendis, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier frères, 1879), cols. 46–50.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n26/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-epiphany-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-epiphany-01.html"
+    },
+    {
+      "id": "guerric-nativity-01",
+      "title": "Nativity Sermon I: What God as a Child Teaches Us",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138–1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "De nativitate Domini",
+        "english_label": "Christmas"
+      },
+      "calendar_1962": "Christmastide",
+      "topics": [
+        "Nativity",
+        "Incarnation",
+        "humility",
+        "mercy",
+        "repentance"
+      ],
+      "scripture": [
+        "Isaiah 9:6",
+        "Psalm 84:8 (source numbering)",
+        "Matthew 18:4 (printed locator; see note)",
+        "John 10:9",
+        "Psalm 111:6 (printed locator; see note)",
+        "Galatians 6:3",
+        "Ecclesiasticus 3:20 (source numbering)",
+        "James 4:6",
+        "1 Peter 5:5"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, De nativitate Domini, sermo I, Qualia nos doceat Deus puer, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier frères, 1879), cols. 29–32.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n18/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-nativity-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-nativity-01.html"
+    },
+    {
+      "id": "guerric-palms-01",
+      "title": "Palm Sunday Sermon I: Christ Becomes All Things for Us",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138–1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "Dominica in ramis palmarum",
+        "english_label": "Palm Sunday"
+      },
+      "calendar_1962": "Palm Sunday",
+      "topics": [
+        "Palm Sunday",
+        "Passion",
+        "humility",
+        "service",
+        "obedience",
+        "Eucharist",
+        "grace",
+        "repentance"
+      ],
+      "scripture": [
+        "Philippians 2:5–6, 8",
+        "Galatians 6:2",
+        "Psalm 23:6 (printed locator; see note)",
+        "Luke 12:47–48 (printed locator; see note)",
+        "Mark 7:37",
+        "Isaiah 43:23–24",
+        "Luke 22:44",
+        "Isaiah 63:3",
+        "Philippians 2:5"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, Dominica in ramis palmarum, sermo I, Quomodo Christus omnia homini factus, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier frères, 1879), cols. 127–130.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n67/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-palms-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-palms-01.html"
+    },
+    {
+      "id": "guerric-pentecost-01",
+      "title": "Pentecost Sermon I: God's Charity and Human Ingratitude",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138-1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In festo Pentecostes",
+        "english_label": "Pentecost"
+      },
+      "calendar_1962": "Pentecost Sunday",
+      "topics": [
+        "Pentecost",
+        "Holy Spirit",
+        "charity",
+        "grace",
+        "hope",
+        "presumption",
+        "despair",
+        "Eucharist"
+      ],
+      "scripture": [
+        "Romans 8:32",
+        "Luke 5 (printed locator; Luke 15 narrative, see note)",
+        "Romans 5:15, 20",
+        "John 1:9",
+        "Matthew 5:45",
+        "Psalm 100:1 (historical numbering)",
+        "Sirach 30:16",
+        "Ecclesiastes 2:2",
+        "Proverbs 14:13",
+        "Acts 2:2",
+        "Isaiah 66:12 (printed punctuation retained; see note)",
+        "Acts 6:10",
+        "John 7:37",
+        "Isaiah 55:1",
+        "Hebrews 6:5 (printed locator; quotation includes 6:4, see note)",
+        "Psalm 101:5 (historical numbering; printed punctuation retained, see note)",
+        "1 Corinthians 10:20–21 (printed locator; see note)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In festo Pentecostes, sermo I, De Dei charitate et hominum ingratitudine, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier freres, 1879), cols. 157-160.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n82/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-pentecost-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-pentecost-01.html"
+    },
+    {
+      "id": "guerric-purification-01",
+      "title": "Purification Sermon I: The Ceremony of Lights",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138-1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "In festo purificationis beatae Mariae Virginis",
+        "english_label": "Candlemas"
+      },
+      "calendar_1962": "The Purification of the Blessed Virgin Mary (Candlemas)",
+      "topics": [
+        "Purification",
+        "Virgin Mary",
+        "Simeon",
+        "light",
+        "humility",
+        "faith",
+        "charity",
+        "prayer",
+        "good works"
+      ],
+      "scripture": [
+        "Luke 22:35 (printed locator; quotation identified as Luke 12:35, see note)",
+        "Job 14:4",
+        "Zechariah 13:1",
+        "James 4:17",
+        "Luke 12:47",
+        "Deuteronomy 4:24",
+        "III Regum 1:17 (printed locator; Abishag episode identified as modern 1 Kings 1:1–4, see note)",
+        "Song of Songs 1:12",
+        "Luke 12:35 (lamps in the hands)",
+        "Proverbs 31:18",
+        "Song of Songs 8:6, 7",
+        "Luke 12:35 (good works as a lamp)",
+        "Matthew 5:16",
+        "Psalm 118:105 (historical numbering; word as a lamp)",
+        "2 Peter 1:19",
+        "Psalm 118:130 (historical numbering)",
+        "1 Peter 4:11",
+        "Psalm 118:105 (historical numbering; repeated in counsel on speech)",
+        "Proverbs 20:27",
+        "Job 29:2, 3",
+        "Zephaniah 1:12 (divine examination contrasted with illuminating grace)",
+        "Matthew 6:22 and Luke 11:34 (single printed locator group)",
+        "Zephaniah 1:12 (Jerusalem searched with lamps)",
+        "Proverbs 20:20",
+        "Job 11:17 and Isaiah 58:10 (single printed locator group)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, In festo purificationis beatae Mariae Virginis, sermo I, De caeremonia luminum hoc festo usitata, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier freres, 1879), cols. 63-67.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n35/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-purification-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-purification-01.html"
+    },
+    {
+      "id": "guerric-resurrection-01",
+      "title": "Resurrection Sermon I: Joseph Lives, Jesus Lives",
+      "author": "Guerric of Igny",
+      "language": "la",
+      "language_label": "Latin",
+      "composition": {
+        "label": "Approximately 1138–1157",
+        "earliest": 1138,
+        "latest": 1157,
+        "approximate": true
+      },
+      "centuries": [
+        12
+      ],
+      "historical_occasion": {
+        "source_label": "De resurrectione Domini",
+        "english_label": "Easter"
+      },
+      "calendar_1962": "Easter Sunday of the Resurrection",
+      "topics": [
+        "Resurrection",
+        "Easter",
+        "hope",
+        "Holy Spirit",
+        "charity",
+        "Eucharist",
+        "Scripture"
+      ],
+      "scripture": [
+        "Genesis 45:26, 28",
+        "Matthew 5:6",
+        "Proverbs 9:9",
+        "Genesis 39:6",
+        "Genesis 41:45",
+        "Hosea 12:10",
+        "Genesis 45:26",
+        "Mark 16:10–13 (historical wording; see note)",
+        "Luke 24:9, 11",
+        "Genesis 45:27–28",
+        "Luke 24:37",
+        "John 20:22",
+        "John 6:40; 11:26 (printed locators; see note)",
+        "Matthew 28:18",
+        "Matthew 11:28 (adapted quotation; see note)",
+        "Matthew 25:34 (adapted quotation; see note)"
+      ],
+      "source": {
+        "citation": "Guerric of Igny, Sermones per annum, De ressurrectione Domini, sermo I, Pulchre verba Jacob de Joseph applicantur ad resurrectionem Christi, in J.-P. Migne, Patrologiae cursus completus, Series Latina, vol. 185, pars prior (Paris: Garnier frères, 1879), cols. 141–144.",
+        "edition_year": 1879,
+        "url": "https://archive.org/details/p1patrologiaecur185mign/page/n74/mode/1up",
+        "digitization": "Internet Archive, 2011; PIMS, University of Toronto; University of Toronto funding.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "translated",
+        "status": "reviewed",
+        "english": "AI-generated translation",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/guerric-resurrection-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-resurrection-01.html"
+    },
+    {
+      "id": "newman-mixed-05",
+      "title": "Saintliness the Standard of Christian Principle",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "Unspecified"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "conscience",
+        "holiness",
+        "saints",
+        "grace",
+        "temptation",
+        "wealth",
+        "fame",
+        "Church"
+      ],
+      "scripture": [
+        "Matthew 6:23 (added by editors; adapted quotation)",
+        "Job 10:22 (added by editors)",
+        "Isaiah 50:11 (added by editors)",
+        "Exodus 32:4; 1 Kings 12:28 parallel (added by editors)",
+        "Matthew 17:2, 4 (added by editors; adapted quotations)",
+        "Hebrews 12:22–24 (added by editors)",
+        "1 John 5:18 (added by editors)",
+        "Romans 12:1 (added by editors)",
+        "Sirach 51:18, 26–28 (added by editors; Douay numbering, adapted quotation)",
+        "Matthew 5:39–40; Luke 6:29 parallel (paraphrase; reference added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse V, Saintliness the Standard of Christian Principle, pp. 83–103.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n94/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-05.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-05.html"
+    },
+    {
+      "id": "newman-mixed-14",
+      "title": "The Mystery of Divine Condescension",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No historical occasion established",
+        "english_label": "Unspecified"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Incarnation",
+        "God's attributes",
+        "divine condescension",
+        "Cross",
+        "love",
+        "hope"
+      ],
+      "scripture": [
+        "2 Corinthians 8:9 (added by editors)",
+        "John 8:57–58 (added by editors)",
+        "Exodus 33:18–20 (added by editors)",
+        "Song of Songs 5:10–16 (quotation and devotional expansion; added by editors)",
+        "1 John 4:19 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, discourse XIV, The Mystery of Divine Condescension (London: Longmans, Green, and Co., 1906), pp. 284–304.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n295/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-14.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-14.html"
+    },
+    {
+      "id": "newman-mixed-16",
+      "title": "Mental Sufferings of Our Lord in His Passion",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Passion-tide",
+        "english_label": "Passion-tide"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Passion",
+        "Christ's humanity",
+        "suffering",
+        "Gethsemane",
+        "sin",
+        "redemption"
+      ],
+      "scripture": [
+        "Matthew 26:38–41 / Mark 14:34–38 (parallel quotations; added by editors)",
+        "John 18:11, 23 (added by editors)",
+        "Hebrews 12:2 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XVI, Mental Sufferings of Our Lord in His Passion, pp. 323–341.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n334/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-16.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-16.html"
+    },
+    {
+      "id": "newman-mixed-17",
+      "title": "The Glories of Mary for the Sake of Her Son",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849; individual delivery date unestablished",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "Unspecified"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Mary",
+        "Incarnation",
+        "Mother of God",
+        "holiness",
+        "intercession",
+        "faith"
+      ],
+      "scripture": [
+        "Ecclesiasticus 42 (added by editors)",
+        "1 Corinthians 2:7, 10 (added by editors)",
+        "John 1:1, 14 (added by editors)",
+        "Hebrews 10:5 (added by editors)",
+        "1 John 1:1, 3 (added by editors)",
+        "Song of Songs 4:4 (added by editors)",
+        "Luke 11:27–28 (added by editors)",
+        "Luke 1:28, 42, 45 (added by editors; traditional wording)",
+        "John 9:31 (added by editors)",
+        "James 5:16 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XVII, The Glories of Mary for the Sake of Her Son, pp. 342–359.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n353/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-17.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-17.html"
+    }
+  ]
+}

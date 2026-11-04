@@ -1,0 +1,133 @@
+# Editorial policy
+
+This document sets out how the texts in Liturgical Sermons are chosen, transcribed,
+translated, annotated and corrected. It describes the practice actually followed in
+preparing the present collection. Where a statement concerns future work, it says so.
+
+## Scope and selection
+
+The library collects sermons by Catholic preachers, chiefly from about AD 1000 to
+1920. Preference is given to sermons by Saints, Blesseds, Venerables and Servants of
+God, and by clergy in good standing with the Church. A modest preference is given
+to sermons that have no accessible English translation, though a sermon of
+importance may be included even where one exists. A sermon is not described as
+never having been translated unless that has been investigated.
+
+The collection is arranged around the liturgical year, and sermons are chosen so
+that the principal feasts and seasons are represented. The ecclesiastical standing
+of an author is stated on the site only where a source for it is cited.
+
+## Editions
+
+Each sermon is taken from a particular printed edition, which is cited by author,
+work, editor where there is one, place, publisher, year, volume and the pages or
+columns occupied by the sermon. The date of the edition is kept distinct from the
+date of the sermon itself, and approximate dates are marked as approximate.
+
+An edition is used only after its rights status has been checked for that edition
+and that digitized copy. The age of the author, or a general description of a
+digital collection, is not taken as sufficient evidence. Where the digitized copy
+was made by a library or archive other than the publisher, that institution is
+named separately. When a clearer copy of the same edition is available, it may be
+used in place of a damaged one, and the copy used is identified in the citation.
+
+## Transcription
+
+The original text is transcribed from page images of the cited edition and checked
+against those images, including the beginning and end of the sermon, its
+quotations, its notes and the completeness of each paragraph. The acquired source
+files are kept apart from the corrected reading text, so that the transcription can
+always be compared with what the edition printed.
+
+The original is reproduced as printed, with its historical spelling, accentuation
+and punctuation. Abbreviations are kept in the original text as the edition gives
+them. Paragraph divisions follow the edition. The page or column of the edition is
+recorded for every paragraph and shown in the margin in Scholar mode.
+
+## Errors, variants and uncertain readings
+
+Evident printing errors are not silently corrected. Where a correction is needed
+for sense, the printed reading is kept or recorded and the correction is explained
+in a note. Where a word or passage is damaged, illegible or uncertain, this is
+recorded, and the text is not reconstructed by conjecture. Where the copy used and
+another copy of the same edition differ, the difference is noted if it affects the
+reading. Repetitions and other features that belong to the sermon as printed are
+retained.
+
+## Translation
+
+Where a public-domain English translation by a human translator exists, it is
+preferred for future additions. Such a translation is checked against the
+original, cited with its translator and edition, and distinguished on the site
+from translations made for this library.
+
+The Latin and French sermons now in the library are translated into English by AI. Each translation is
+then reviewed against the original in a separate pass, also by AI, which checks for
+omissions, additions, mistranslations, the rendering of theological terms and the
+handling of Scripture. The review that produced a translation does not count as its
+review. Findings that would materially mislead a reader are corrected and rechecked
+before publication; a passage with an unresolved material error is withheld rather
+than published as reviewed.
+
+**No human language review has occurred.** The AI review is not human verification
+and is not expert verification, and the site does not describe it as either. Each
+translated sermon carries a notice to this effect. If a translation is later
+reviewed by a qualified reader, the sermon, the reviewer's role and the date will
+be recorded, and the notice will be changed only for that sermon.
+
+The translations aim to be accurate and readable English, following the structure
+of the original paragraph by paragraph so that Scholar mode can align them. The
+original and English texts are kept in corresponding blocks.
+
+Sermons written in English, such as Newman's, are presented as English originals.
+They are checked against the edition and are not described as translations.
+
+## Scripture and other citations
+
+Scripture quoted in the original is reproduced in the wording and numbering of the
+edition, which may differ from modern Bibles; the historical numbering of the
+Psalms, for example, is kept. The English translation renders the passage as the
+preacher quoted it rather than substituting a modern version.
+
+Where the edition cites a passage, that citation is kept. Where the edition leaves
+a quotation uncited, a reference may be supplied; such references are marked as
+added by the editors. Citations of the Fathers and of other authors are given as the
+edition gives them, and any explanation is placed in a note.
+
+## Introductions and notes
+
+Each sermon has a short introduction, a list of topics and a list of Scripture
+references. These are drafted with AI assistance from the edition itself and from
+the recorded selection evidence, and are checked in a separate AI review. They are
+kept apart from the sermon text and are marked as editorial. An introduction
+describes the argument of the sermon and its known context; it does not infer a
+date or occasion for which there is no evidence.
+
+Notes are of two kinds: notes printed in the edition, which are translated with the
+text, and editorial notes, which explain references, difficult readings and printed
+anomalies. The two are labelled differently.
+
+## Occasions and the calendar
+
+The occasion of each sermon is given as the source names it. Separately, a sermon
+may be assigned to a feast or season of the traditional (1962) Roman calendar for
+browsing. That assignment is a convenience for readers and is not a claim that the
+author preached on that day or used that calendar. Where the assignment is
+uncertain, the sermon is left unassigned.
+
+## Corrections
+
+Readers are asked to report errors through the Feedback page on the site or by
+opening an issue; [CONTRIBUTING.md](CONTRIBUTING.md) describes what to include.
+A reported error is checked against the page images of the cited edition. A
+correction to an original text or a translation is made in the underlying record,
+reviewed again in the same way as the original work, and published with the next
+update of the site.
+
+## Recording revisions
+
+Each correction to an original text, translation, note, introduction or citation
+after publication is recorded in [CHANGES.md](CHANGES.md) with the date, the
+sermon, the passage and a brief description of the change. Detailed working
+records of each sermon's preparation, including the source inventories, the
+review reports and the correction logs, are kept in the private authoring project.

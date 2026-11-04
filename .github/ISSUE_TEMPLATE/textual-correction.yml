@@ -1,0 +1,28 @@
+name: Error in an original text
+description: A transcription that differs from the printed edition, or a wrong citation.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: sermon
+    attributes:
+      label: Sermon
+      description: Title, or the link to the sermon or paragraph (each paragraph has a ¶ link).
+    validations:
+      required: true
+  - type: input
+    id: locator
+    attributes:
+      label: Page or column of the edition
+      description: Shown in the margin in Scholar mode.
+  - type: textarea
+    id: reading
+    attributes:
+      label: Reading on the site, and the reading you believe the edition has
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Did you check the page image linked from the sermon's Edition & translation section? Cite any other source.

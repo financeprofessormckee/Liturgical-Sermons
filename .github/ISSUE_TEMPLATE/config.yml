@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Feedback page on the site
+    url: https://financeprofessormckee.github.io/Liturgical-Sermons/feedback.html
+    about: Choose a sermon and open an issue already filled in with its title and link.

@@ -42,6 +42,11 @@
           target.append(document.createTextNode(snippet.text + " "));
           const link = document.createElement("a");
           link.href = base + "#" + encodeURIComponent(snippet.anchor);
+          if (snippet.translation_id) {
+            const url = new URL(link.href);
+            url.searchParams.set('translation', snippet.translation_id);
+            link.href = url.href;
+          }
           // Search hits in the original open in that language; editorial notes remain visible in all views.
           if (doc.text_kind === "translated" && snippet.label.endsWith(" original")) {
             const url = new URL(link.href);

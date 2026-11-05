@@ -70,7 +70,7 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
 .reading-block .text-pair{min-width:0}
 .reading-block>.note-links{grid-column:2}
 .reader[data-mode=reading] .printed-locator{display:none}
-.reader[data-mode=scholar] .sermon-text>.reading-block{grid-template-columns:5.5rem minmax(0,1fr);column-gap:1.2rem}
+.reader[data-mode=scholar] .sermon-text>.reading-block,.reader[data-mode=scholar] .english-version>.reading-block{grid-template-columns:5.5rem minmax(0,1fr);column-gap:1.2rem}
 .reader[data-mode=scholar] .printed-locator{display:block;margin:.4rem .2rem}
 .text-pair p,.text-pair blockquote{font-size:1.05rem;line-height:1.9}
 .text-pair h3{margin-top:.4rem}
@@ -102,7 +102,7 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
   .ways-in{grid-template-columns:minmax(0,1fr)}
   .reader-toolbar{gap:.6rem 1rem}
   .reader-tip{align-items:flex-start}
-  .reader[data-mode=scholar] .sermon-text>.reading-block{grid-template-columns:minmax(0,1fr);gap:.2rem}
+  .reader[data-mode=scholar] .sermon-text>.reading-block,.reader[data-mode=scholar] .english-version>.reading-block{grid-template-columns:minmax(0,1fr);gap:.2rem}
   .reader[data-mode=scholar] .printed-locator{display:inline}
   .reader[data-mode=scholar] .reading-block>.note-links{grid-column:1}
   .reader[data-mode=scholar] .text-pair{gap:.8rem}

@@ -5,6 +5,9 @@ This repository contains material of four kinds, under different terms.
 1. Historical editions. The sermons are transcribed from printed editions that
    are in the public domain in the United States. Each edition is cited on the
    Texts & Licences page of the site and in catalog.json.
+   This includes cited historical human translations, such as A. Carroll's
+   1843 English translation. Their historical text is not relicensed under
+   the terms for translations newly prepared for this library.
 
 2. Digitized copies. The page images of those editions are held by the libraries
    and archives named with each sermon. This repository does not contain or

@@ -1,8 +1,8 @@
-# Liturgical Sermons
+# <span lang="la">Sermones per annum</span>
 
 **Read the library: <https://financeprofessormckee.github.io/Liturgical-Sermons/>**
 
-Liturgical Sermons is a small reading library of historical Catholic sermons for
+<span lang="la">Sermones per annum</span> is a small library of historical Catholic sermons for
 the feasts and seasons of the liturgical year. Each sermon is given in English
 and, where the original is Latin or French, beside its original text, with notes,
 Scripture references and a citation of the printed edition from which it was taken.
@@ -21,11 +21,11 @@ that have no accessible English translation. Selection is described in the
 
 ## The collection at present
 
-35 sermons by 3 authors. 31 are translated from Latin or French; 4 are English originals.
+69 sermons by 3 authors. 65 are translated from Latin or French; 4 are English originals.
 
 | Author | Sermons | Original language | Period |
 | --- | --- | --- | --- |
-| Guerric of Igny | 21 | Latin | 12th century |
+| Guerric of Igny | 55 | Latin | 12th century |
 | Louis Bourdaloue | 10 | French | 17th–18th century |
 | John Henry Newman | 4 | English | 19th century |
 
@@ -93,8 +93,8 @@ the generated files are overwritten at the next update; see
 
 More sermons and more authors will be added, including complete cycles where
 the editions allow. I also intend to connect the library to the liturgical
-calendar in the manner of Chant of the Day, so that each day of the year points
-to its sermons. Other possibilities under consideration are a cross-sermon index
+calendar in the manner of [Chant of the Day](https://github.com/financeprofessormckee/Chant-Of-The-Day),
+so that each day of the year points to its sermons. Other possibilities under consideration are a cross-sermon index
 of Scripture and help with Latin and French vocabulary while reading.
 
 ## Corrections

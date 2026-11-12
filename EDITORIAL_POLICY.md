@@ -1,6 +1,6 @@
 # Editorial policy
 
-This document sets out how the texts in Liturgical Sermons are chosen, transcribed,
+This document sets out how the texts in <span lang="la">Sermones per annum</span> are chosen, transcribed,
 translated, annotated and corrected. It describes the practice actually followed in
 preparing the present collection. Where a statement concerns future work, it says so.
 

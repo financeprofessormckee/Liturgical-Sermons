@@ -42,7 +42,7 @@
       if ([...select.options].some(option => option.value === requested)) select.value = requested;
       function updateIssues() {
         const option = select.selectedOptions[0];
-        const title = select.value ? option.textContent : "Liturgical Sermons";
+        const title = select.value ? option.textContent : route.dataset.siteName;
         const context = select.value ? "Sermon: " + title + "\nLink: " + new URL(option.dataset.path, location.href).href : "Library: " + new URL("index.html", location.href).href;
         route.querySelectorAll("[data-feedback-kind]").forEach(link => {
           const kind = link.dataset.feedbackKind;

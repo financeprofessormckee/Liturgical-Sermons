@@ -21,13 +21,13 @@ that have no accessible English translation. Selection is described in the
 
 ## The collection at present
 
-69 sermons by 3 authors. 65 are translated from Latin or French; 4 are English originals.
+98 sermons by 3 authors. 65 are translated from Latin or French; 33 are English originals.
 
 | Author | Sermons | Original language | Period |
 | --- | --- | --- | --- |
 | Guerric of Igny | 55 | Latin | 12th century |
 | Louis Bourdaloue | 10 | French | 17th–18th century |
-| John Henry Newman | 4 | English | 19th century |
+| John Henry Newman | 33 | English | 19th century |
 
 The machine-readable [catalog.json](catalog.json) lists every sermon with its
 author, date, language, occasion, topics, Scripture references, source edition and

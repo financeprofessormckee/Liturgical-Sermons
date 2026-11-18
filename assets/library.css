@@ -69,6 +69,10 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
 .reading-block .block-meta{font-size:.65rem;margin-top:.4rem}
 .reading-block .text-pair{min-width:0}
 .reading-block>.note-links{grid-column:2}
+.reading-block.author-note{display:block}
+.author-note .original-text{white-space:pre-line}
+.author-note aside{border-left:1px solid var(--line);padding-left:1rem;margin-top:.5rem}
+.reader[data-mode=reading] .author-note :is(.block-meta,.language-label){display:none}
 .reader[data-mode=reading] .printed-locator{display:none}
 .reader[data-mode=scholar] .sermon-text>.reading-block,.reader[data-mode=scholar] .english-version>.reading-block{grid-template-columns:5.5rem minmax(0,1fr);column-gap:1.2rem}
 .reader[data-mode=scholar] .printed-locator{display:block;margin:.4rem .2rem}
@@ -83,7 +87,7 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
 .note-marker a:hover{text-decoration:underline}
 .note-marker a:focus{outline:2px solid var(--focus);outline-offset:3px}
 .note-marker a:target{background:var(--panel);outline:2px solid var(--focus);outline-offset:2px}
-.reader[data-view=english] .note-backlink[data-field=original],.reader[data-view=original] .note-backlink[data-field=english]{display:none}
+.reader[data-translated=true][data-view=english] .note-backlink[data-field=original],.reader[data-view=original] .note-backlink[data-field=english]{display:none}
 .editorial-text p{font-size:.9rem}
 .reader[data-mode=reading] .sermon-text .language-label{display:none}
 .reader[data-mode=reading][data-translated=false] .original-text[lang=la] .language-label{display:inline}
@@ -115,3 +119,10 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
   .reader-toolbar,.reader-tip,.feedback-link{display:none}
   .reader{max-width:none!important}
 }
+.author-panel nav{display:flex;flex-wrap:wrap;gap:.2rem 1rem;margin:.4rem 0 .8rem}.author-panel nav a{font:.85rem system-ui,sans-serif}.author-panel>a{margin-right:1rem}
+.index-group{border-top:1px solid var(--line);padding:1rem 0}.index-group h2{font-size:1.25rem;font-weight:normal;margin:.2rem 0 .6rem}.index-group ul{list-style:none;padding:0;margin:0}.index-group li{padding:.3rem 0;line-height:1.6}.scripture-ref{font:600 .8rem system-ui,sans-serif;margin-right:.6rem}.calendar-panel[aria-label="Books of the Bible"]{display:flex;flex-wrap:wrap;gap:.25rem .8rem;margin:0 0 1.5rem;font:.8rem/1.6 system-ui,sans-serif}
+.day-card{--day:var(--line);background:var(--panel);border:1px solid var(--line);border-left:.55rem solid var(--day);padding:1.2rem 1.4rem;scroll-margin-top:1rem}.day-card h2{font-size:clamp(1.45rem,3vw,2rem);font-weight:normal;line-height:1.25;margin:.3rem 0}.day-card h3{font-size:1rem;margin:1.1rem 0 .2rem}.day-card p{margin:.4rem 0}.calendar-sermons{margin:.2rem 0;padding-left:1.1rem}.calendar-sermons li{padding:.15rem 0}.calendar-chant{margin-top:1rem!important;font:.85rem system-ui,sans-serif}
+[data-colour=white]{--day:#efe6cf}[data-colour=red]{--day:#a3262e}[data-colour=violet]{--day:#6a3d8f}[data-colour=green]{--day:#2f7044}[data-colour=rose]{--day:#d98aa0}[data-colour=black]{--day:#111}[data-colour=none]{--day:var(--line)}
+.week-heading{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:.5rem 1rem;margin-top:2rem}.week-heading h2{font-size:1.25rem;font-weight:normal;margin:0}.week-strip{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:.3rem;margin-top:.6rem}.week-strip button{--day:var(--line);min-height:3.4rem;padding:.35rem .1rem;background:var(--control);color:var(--ink);border:1px solid var(--border);border-bottom:.3rem solid var(--day);font-family:system-ui,sans-serif;cursor:pointer}.week-strip button[aria-pressed=true]{outline:2px solid var(--accent);outline-offset:1px}.week-strip button[aria-current=date] .week-day{text-decoration:underline}.week-name,.week-day{display:block}.week-name{font-size:.65rem;color:var(--muted)}.week-day{font-size:1rem}
+.calendar-year button{--day:var(--line);display:grid;grid-template-columns:4.2rem minmax(0,1fr) auto;gap:.2rem .7rem;width:100%;padding:.4rem .5rem;background:none;color:var(--ink);border:0;border-left:.3rem solid var(--day);font:inherit;text-align:left;cursor:pointer}.calendar-year button:hover,.calendar-year button[aria-current=true]{background:var(--panel)}.year-date{font:.75rem/1.9 system-ui,sans-serif;color:var(--muted)}.calendar-main .index-group h3{font-size:1.05rem;font-weight:normal;margin:.2rem 0 .4rem}
+@media(max-width:600px){.calendar-year button{grid-template-columns:3.6rem minmax(0,1fr)}.calendar-year button .muted{grid-column:2}.day-card{padding:1rem}}

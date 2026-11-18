@@ -2319,7 +2319,7 @@
         "Psalm 103:31 (historical numbering; printed locator; passage from verse 34)",
         "Sirach 15:9",
         "Psalm 49:16 (historical numbering)",
-        "Amos 5:25",
+        "Amos 5:25 (printed locator; passage from verse 23)",
         "Jeremiah 8:6",
         "John 3:29",
         "Song of Songs 2:14"
@@ -5146,6 +5146,202 @@
       "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/guerric-rogations.html"
     },
     {
+      "id": "newman-mixed-01",
+      "title": "The Salvation of the Hearer the Motive of the Preacher",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 2 February 1849",
+        "earliest": 1849,
+        "latest": 1849,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Opening of the Oratory chapel in Alcester Street, Birmingham",
+        "english_label": "Opening of the Oratory chapel in Alcester Street, Birmingham"
+      },
+      "calendar_1962": "The Purification of the Blessed Virgin Mary (Candlemas)",
+      "topics": [
+        "preaching",
+        "salvation",
+        "priesthood",
+        "charity",
+        "conversion"
+      ],
+      "scripture": [
+        "Luke 16:22–23 (added by editors)",
+        "Matthew 10:8 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse I, The Salvation of the Hearer the Motive of the Preacher, pp. 1–21.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n12/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-01.html"
+    },
+    {
+      "id": "newman-mixed-02",
+      "title": "Neglect of Divine Calls and Warnings",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "repentance",
+        "sin",
+        "presumption",
+        "death",
+        "conversion"
+      ],
+      "scripture": [
+        "1 Corinthians 10:9 (added by editors)",
+        "Matthew 4:7 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse II, Neglect of Divine Calls and Warnings, pp. 22–42.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n33/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-02.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-02.html"
+    },
+    {
+      "id": "newman-mixed-03",
+      "title": "Men, Not Angels, the Priests of the Gospel",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "priesthood",
+        "sacraments",
+        "confession",
+        "mercy",
+        "human weakness"
+      ],
+      "scripture": [
+        "2 Corinthians 4:7 (added by editors)",
+        "Hebrews 5:1 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse III, Men, Not Angels, the Priests of the Gospel, pp. 43–61.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n54/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-03.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-03.html"
+    },
+    {
+      "id": "newman-mixed-04",
+      "title": "Purity and Love",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "purity",
+        "charity",
+        "saints",
+        "repentance",
+        "grace"
+      ],
+      "scripture": [
+        "John 21:15–17 (added by editors)",
+        "John 20:17 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse IV, Purity and Love, pp. 62–82.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n73/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-04.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-04.html"
+    },
+    {
       "id": "newman-mixed-05",
       "title": "Saintliness the Standard of Christian Principle",
       "author": "John Henry Newman",
@@ -5206,6 +5402,394 @@
       "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-05.html"
     },
     {
+      "id": "newman-mixed-06",
+      "title": "God’s Will the End of Life",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "divine will",
+        "obedience",
+        "vocation",
+        "salvation",
+        "worldliness"
+      ],
+      "scripture": [
+        "Hebrews 10:7 (added by editors)",
+        "John 17:4–6 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse VI, God’s Will the End of Life, pp. 104–123.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n115/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-06.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-06.html"
+    },
+    {
+      "id": "newman-mixed-07",
+      "title": "Perseverance in Grace",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "grace",
+        "perseverance",
+        "free will",
+        "prayer",
+        "justification"
+      ],
+      "scripture": [
+        "Philippians 1:6 (added by editors)",
+        "1 Corinthians 10:12 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse VII, Perseverance in Grace, pp. 124–144.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n135/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-07.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-07.html"
+    },
+    {
+      "id": "newman-mixed-08",
+      "title": "Nature and Grace",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "grace",
+        "baptism",
+        "virtue",
+        "salvation",
+        "Good Shepherd"
+      ],
+      "scripture": [
+        "John 10:9, 27–28 (added by editors)",
+        "John 17:6–11 (added by editors)",
+        "John 15:19 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse VIII, Nature and Grace, pp. 145–168.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n156/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-08.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-08.html"
+    },
+    {
+      "id": "newman-mixed-09",
+      "title": "Illuminating Grace",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "grace",
+        "faith",
+        "reason",
+        "conversion"
+      ],
+      "scripture": [
+        "1 John 2:20 (added by editors)",
+        "Romans 5:1–5 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse IX, Illuminating Grace, pp. 169–191.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n180/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-09.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-09.html"
+    },
+    {
+      "id": "newman-mixed-10",
+      "title": "Faith and Private Judgment",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "faith",
+        "reason",
+        "Church authority",
+        "Scripture",
+        "conversion"
+      ],
+      "scripture": [
+        "Acts 2:32, 36 (added by editors)",
+        "Ephesians 4:11–14 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse X, Faith and Private Judgment, pp. 192–213.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n203/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-10.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-10.html"
+    },
+    {
+      "id": "newman-mixed-11",
+      "title": "Faith and Doubt",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "faith",
+        "doubt",
+        "reason",
+        "conversion",
+        "grace"
+      ],
+      "scripture": [
+        "Micah 6:3 (added by editors)",
+        "1 Corinthians 14:24–25 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XI, Faith and Doubt, pp. 214–237.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n225/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-11.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-11.html"
+    },
+    {
+      "id": "newman-mixed-12",
+      "title": "Prospects of the Catholic Missioner",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Delivered in substance 31 May 1849",
+        "earliest": 1849,
+        "latest": 1849,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Opening of the London Oratory",
+        "english_label": "Opening of the London Oratory"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "preaching",
+        "missions",
+        "Church history",
+        "conversion"
+      ],
+      "scripture": [
+        "Isaiah 58:1 (added by editors)",
+        "Job 9:20 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XII, Prospects of the Catholic Missioner, pp. 238–259.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n249/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-12.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-12.html"
+    },
+    {
+      "id": "newman-mixed-13",
+      "title": "Mysteries of Nature and of Grace",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "No specific liturgical occasion established",
+        "english_label": "No specific liturgical occasion established"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "faith",
+        "reason",
+        "nature",
+        "grace",
+        "mystery"
+      ],
+      "scripture": [],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XIII, Mysteries of Nature and of Grace, pp. 260–283.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n271/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-13.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-13.html"
+    },
+    {
       "id": "newman-mixed-14",
       "title": "The Mystery of Divine Condescension",
       "author": "John Henry Newman",
@@ -5257,6 +5841,55 @@
       },
       "path": "sermons/newman-mixed-14.html",
       "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-14.html"
+    },
+    {
+      "id": "newman-mixed-15",
+      "title": "The Infinitude of the Divine Attributes",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Passion-tide",
+        "english_label": "Passion-tide"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Passion",
+        "redemption",
+        "atonement",
+        "mercy",
+        "divine justice"
+      ],
+      "scripture": [
+        "Philippians 2:7 (added by editors)",
+        "Isaiah 53:7 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XV, The Infinitude of the Divine Attributes, pp. 305–322.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n316/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-15.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-15.html"
     },
     {
       "id": "newman-mixed-16",
@@ -5366,6 +5999,908 @@
       },
       "path": "sermons/newman-mixed-17.html",
       "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-17.html"
+    },
+    {
+      "id": "newman-mixed-18",
+      "title": "On the Fitness of the Glories of Mary",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "By 1849 (first publication)",
+        "earliest": null,
+        "latest": 1849,
+        "approximate": true
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "The Assumption of the Blessed Virgin Mary",
+        "english_label": "The Assumption of the Blessed Virgin Mary"
+      },
+      "calendar_1962": "The Assumption of the Blessed Virgin Mary",
+      "topics": [
+        "Mary",
+        "Assumption",
+        "Incarnation",
+        "sanctity",
+        "devotion"
+      ],
+      "scripture": [
+        "Luke 24:26 (added by editors)",
+        "1 John 4:16 (added by editors)",
+        "Sirach 24:27, 29–30 (Douay-Rheims) (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Discourses Addressed to Mixed Congregations, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1906), discourse XVIII, On the Fitness of the Glories of Mary, pp. 360–376.",
+        "edition_year": 1906,
+        "url": "https://archive.org/details/a961625smrn00newmuoft/page/n371/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-mixed-18.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-mixed-18.html"
+    },
+    {
+      "id": "newman-occasions-01",
+      "title": "Intellect, the Instrument of Religious Training",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 4 May 1856",
+        "earliest": 1856,
+        "latest": 1856,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Feast of St. Monica—Sunday after Ascension, 1856",
+        "english_label": "Feast of St. Monica, Sunday after the Ascension"
+      },
+      "calendar_1962": "Sunday after the Ascension",
+      "topics": [
+        "education",
+        "intellect",
+        "faith",
+        "conversion",
+        "St. Monica",
+        "St. Augustine"
+      ],
+      "scripture": [
+        "Luke 7:12 (printed reference)",
+        "Daniel 12:3 (added by editors; adapted quotation)",
+        "Luke 7:13–15 (added by editors)",
+        "Baruch 5:1, 5–6 (added by editors)",
+        "Sirach 24:1–2, 8 (added by editors; Douay numbering, adapted quotation)",
+        "Matthew 12:34; Luke 6:45 parallel (added by editors; adapted quotation)",
+        "Matthew 12:43; Luke 11:24 parallel (added by editors)",
+        "Matthew 19:6 (paraphrase; reference added by editors)",
+        "1 Corinthians 12:31 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon I, Intellect, the Instrument of Religious Training, pp. 1–14.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n20/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-01.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-01.html"
+    },
+    {
+      "id": "newman-occasions-02",
+      "title": "The Religion of the Pharisee, the Religion of Mankind",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 20 July 1856",
+        "earliest": 1856,
+        "latest": 1856,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "10th Sunday after Pentecost, 1856",
+        "english_label": "Tenth Sunday after Pentecost"
+      },
+      "calendar_1962": "Tenth Sunday after Pentecost",
+      "topics": [
+        "humility",
+        "sin",
+        "repentance",
+        "prayer",
+        "pagan virtue",
+        "self-knowledge"
+      ],
+      "scripture": [
+        "Luke 18:13 (printed reference)",
+        "Revelation 5:9 (added by editors)",
+        "Matthew 9:13 (added by editors)",
+        "Luke 18:14 (added by editors)",
+        "Romans 3:10, 23; Titus 3:5 (added by editors)",
+        "Psalm 31:1–2 (added by editors; Douay numbering, Psalm 32 in modern editions)",
+        "Revelation 3:17–19 (added by editors)",
+        "Luke 5:8 (added by editors)",
+        "Job 42:5–6 (added by editors)",
+        "Isaiah 6:5 (added by editors)",
+        "Daniel 10:8 (added by editors; adapted quotation)",
+        "1 Timothy 1:15 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon II, The Religion of the Pharisee, the Religion of Mankind, pp. 15–30.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n34/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-02.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-02.html"
+    },
+    {
+      "id": "newman-occasions-03",
+      "title": "Waiting for Christ",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 16 November 1856",
+        "earliest": 1856,
+        "latest": 1856,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "27th Sunday after Pentecost, 1856",
+        "english_label": "Twenty-seventh Sunday after Pentecost"
+      },
+      "calendar_1962": "Third to Sixth Sundays after Epiphany",
+      "topics": [
+        "Second Coming",
+        "Advent",
+        "watchfulness",
+        "hope",
+        "detachment",
+        "devotion to Christ"
+      ],
+      "scripture": [
+        "1 Thessalonians 1:9–10 (printed reference)",
+        "Matthew 24:21, 29–30 (added by editors)",
+        "Mark 13:35–37 (added by editors)",
+        "1 Corinthians 7:29–31 (added by editors)",
+        "Luke 10:38–42 (added by editors)",
+        "Habakkuk 2:1, 3 (added by editors)",
+        "Isaiah 64:1–4 (added by editors)",
+        "Philippians 3:20; Colossians 3:1–4 (added by editors)",
+        "Revelation 1:7; 22:20 (added by editors)",
+        "2 Peter 3:3–4, 8, 11–12 (added by editors)",
+        "2 Timothy 4:8 (added by editors)",
+        "Revelation 22:17 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon III, Waiting for Christ, pp. 31–46.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n50/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-03.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-03.html"
+    },
+    {
+      "id": "newman-occasions-04",
+      "title": "The Secret Power of Divine Grace",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 23 November 1856",
+        "earliest": 1856,
+        "latest": 1856,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "28th Sunday after Pentecost, 1856",
+        "english_label": "Twenty-eighth Sunday after Pentecost"
+      },
+      "calendar_1962": "Twenty-third and Last Sundays after Pentecost",
+      "topics": [
+        "grace",
+        "kingdom of God",
+        "Church",
+        "conversion",
+        "Providence"
+      ],
+      "scripture": [
+        "Luke 17:20–21 (printed reference)",
+        "Joel 2:3–5 (added by editors)",
+        "1 Thessalonians 4:15 (added by editors; Douay numbering, 4:16 in modern editions)",
+        "Matthew 12:19–20, quoting Isaiah 42:2–3 (added by editors)",
+        "2 Corinthians 10:4–5 (added by editors)",
+        "Romans 10:8 (added by editors)",
+        "Matthew 10:36 (added by editors)",
+        "Isaiah 53:3–4, 12 (added by editors)",
+        "Hebrews 6:4–5; Revelation 2:17 (added by editors)",
+        "Acts 2:47 (added by editors)",
+        "Isaiah 49:18–23 (added by editors)",
+        "1 Peter 3:4 (added by editors)",
+        "Psalm 126:1 (added by editors; Douay numbering, Psalm 127 in modern editions)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon IV, The Secret Power of Divine Grace, pp. 47–59.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n66/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-04.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-04.html"
+    },
+    {
+      "id": "newman-occasions-05",
+      "title": "Dispositions for Faith",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 21 December 1856",
+        "earliest": 1856,
+        "latest": 1856,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Feast of St. Thomas—4th Sunday after Advent, 1856",
+        "english_label": "Feast of St. Thomas, Fourth Sunday of Advent"
+      },
+      "calendar_1962": "St. Thomas, Apostle",
+      "topics": [
+        "faith",
+        "conscience",
+        "revelation",
+        "St. Thomas",
+        "St. John the Baptist",
+        "Advent"
+      ],
+      "scripture": [
+        "Luke 3:4–6 (printed reference)",
+        "John 20:25, 29 (added by editors)",
+        "John 4:48 (added by editors)",
+        "Matthew 15:28; 8:10; 9:22; Luke 7:50; Mark 9:22 (added by editors; Douay numbering for Mark, 9:23 in modern editions)",
+        "Luke 2:14 (added by editors)",
+        "John 1:9, 12–13 (added by editors)",
+        "Romans 7:24 (added by editors)",
+        "Luke 24:25; 16:31; Matthew 12:39 (added by editors)",
+        "Acts 17:11–12 (added by editors)",
+        "Acts 16:30; Matthew 7:7 (added by editors)",
+        "1 Timothy 1:19 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon V, Dispositions for Faith, pp. 60–74.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n79/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-05.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-05.html"
+    },
+    {
+      "id": "newman-occasions-06",
+      "title": "Omnipotence in Bonds",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 11 January 1857",
+        "earliest": 1857,
+        "latest": 1857,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "1st Sunday after Epiphany, 1857",
+        "english_label": "First Sunday after Epiphany"
+      },
+      "calendar_1962": "The Holy Family",
+      "topics": [
+        "Incarnation",
+        "omnipotence",
+        "humility",
+        "obedience",
+        "Eucharist",
+        "Holy Family"
+      ],
+      "scripture": [
+        "Luke 2:51 (printed reference)",
+        "Luke 2:19, 51 (added by editors)",
+        "John 1:14, 11 (added by editors)",
+        "2 Corinthians 8:9 (paraphrase; reference added by editors)",
+        "Matthew 20:15; Romans 9:20 (added by editors)",
+        "Psalm 50:6; Romans 3:4 (added by editors; Douay numbering, Psalm 51:4 in modern editions)",
+        "Job 4; 9; 15; 22; 25; 33 (printed note)",
+        "Luke 2:7 (added by editors)",
+        "John 11:44 (added by editors)",
+        "2 Corinthians 6:15 (added by editors)",
+        "Mark 3:21; Luke 4:29; John 7:32 (added by editors)",
+        "Luke 22:52–53 (added by editors)",
+        "2 Thessalonians 2:3–4 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon VI, Omnipotence in Bonds, pp. 75–90.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n94/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-06.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-06.html"
+    },
+    {
+      "id": "newman-occasions-07",
+      "title": "St. Paul's Characteristic Gift",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 25 January 1857",
+        "earliest": 1857,
+        "latest": 1857,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Feast of the Conversion of St. Paul—3rd Sunday after Epiphany, 1857",
+        "english_label": "Conversion of St. Paul, Third Sunday after Epiphany"
+      },
+      "calendar_1962": "Third to Sixth Sundays after Epiphany",
+      "topics": [
+        "St. Paul",
+        "saints",
+        "human nature",
+        "sympathy",
+        "Israel",
+        "grace"
+      ],
+      "scripture": [
+        "2 Corinthians 12:9 (printed reference)",
+        "Galatians 2:20 (added by editors)",
+        "2 Corinthians 12:2–4 (added by editors)",
+        "2 Corinthians 5:4 (added by editors)",
+        "Ephesians 2:3; Romans 7:14, 17, 25 (added by editors)",
+        "Acts 17:26–27 (added by editors)",
+        "Acts 14:14–16 (added by editors; Douay numbering, 14:15–17 in modern editions)",
+        "Romans 8:19–22 (added by editors)",
+        "Romans 9:1–5 (added by editors)",
+        "Acts 22:19–20 (added by editors)",
+        "Romans 9:3; 10:1–2; 11:1–2, 25–29; Exodus 32:31–32 (added by editors)",
+        "1 Corinthians 9:20–22 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon VII, St. Paul's Characteristic Gift, pp. 91–105.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n110/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-07.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-07.html"
+    },
+    {
+      "id": "newman-occasions-08",
+      "title": "St. Paul's Gift of Sympathy",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 15 February 1857",
+        "earliest": 1857,
+        "latest": 1857,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Sexagesima Sunday, 1857",
+        "english_label": "Sexagesima Sunday"
+      },
+      "calendar_1962": "Sexagesima Sunday",
+      "topics": [
+        "St. Paul",
+        "St. Philip Neri",
+        "charity",
+        "sympathy",
+        "friendship",
+        "humility"
+      ],
+      "scripture": [
+        "2 Corinthians 1:3–4 (printed reference)",
+        "John 3:16 (added by editors)",
+        "Titus 3:4 (added by editors)",
+        "John 2:25 (added by editors)",
+        "1 John 5:1; 4:21; Psalm 102:14 (added by editors; Douay numbering, Psalm 103:14 in modern editions)",
+        "Revelation 5:8; Hebrews 5:1–3 (added by editors)",
+        "2 Corinthians 4:5, 7, 10 (added by editors)",
+        "2 Corinthians 7:5; 1 Corinthians 2:3–4; 2 Corinthians 11:6, 17; 12:7–9 (added by editors)",
+        "Acts 20:22–25, 36–38; 21:13 (added by editors)",
+        "Romans 12:15; 2 Corinthians 11:29–30 (added by editors)",
+        "Philippians 1:23–24; 1 Thessalonians 2:19–20 (added by editors)",
+        "2 Timothy 4:10–11, 16 (added by editors)",
+        "1 Corinthians 1:12–13; Colossians 3:11 (added by editors)",
+        "Philemon 8–9 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon VIII, St. Paul's Gift of Sympathy, pp. 106–120.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n125/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-08.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-08.html"
+    },
+    {
+      "id": "newman-occasions-09",
+      "title": "Christ upon the Waters",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 27 October 1850",
+        "earliest": 1850,
+        "latest": 1850,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Installation of Bishop Ullathorne",
+        "english_label": "Installation of Bishop Ullathorne"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Catholic hierarchy",
+        "England",
+        "Faith",
+        "Persecution",
+        "Providence"
+      ],
+      "scripture": [
+        "Matthew 14:24–27",
+        "Psalm 18:3 (modern 19:2) (added by editors)",
+        "John 6:21 (added by editors)",
+        "Hosea 6:2–3 (modern 6:1–2) (added by editors)",
+        "Matthew 12:22–24 (added by editors)",
+        "Matthew 10:24–25 (added by editors)",
+        "1 Peter 5:8 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon IX, Christ upon the Waters, pp. 121–162.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n140/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-09.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-09.html"
+    },
+    {
+      "id": "newman-occasions-10",
+      "title": "The Second Spring",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 13 July 1852",
+        "earliest": 1852,
+        "latest": 1852,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "First Provincial Synod of Westminster",
+        "english_label": "First Provincial Synod of Westminster"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Catholic hierarchy",
+        "England",
+        "Martyrdom",
+        "Prayer",
+        "Renewal"
+      ],
+      "scripture": [
+        "Canticle 2:10–12",
+        "Isaiah 54:3 (added by editors)",
+        "Isaiah 60:1–4 (added by editors)",
+        "Canticle 2:10–13 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon X, The Second Spring, pp. 163–182.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n182/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-10.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-10.html"
+    },
+    {
+      "id": "newman-occasions-11",
+      "title": "Order, the Witness and Instrument of Unity",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 9 November 1853",
+        "earliest": 1853,
+        "latest": 1853,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "First Diocesan Synod of Birmingham",
+        "english_label": "First Diocesan Synod of Birmingham"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Bishops",
+        "Church unity",
+        "Clergy",
+        "Ignatius of Antioch",
+        "Synods"
+      ],
+      "scripture": [
+        "Luke 9:2–4",
+        "1 Corinthians 14:33 (added by editors)",
+        "Exodus 32:10 (added by editors)",
+        "1 Corinthians 12:11 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon XI, Order, the Witness and Instrument of Unity, pp. 183–198.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n202/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-11.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-11.html"
+    },
+    {
+      "id": "newman-occasions-12",
+      "title": "The Mission of St. Philip Neri",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 15 and 18 January 1850",
+        "earliest": 1850,
+        "latest": 1850,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "First anniversary of the Oratory",
+        "english_label": "First anniversary of the Oratory"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Confession",
+        "Oratory",
+        "Philip Neri",
+        "Renaissance",
+        "Savonarola"
+      ],
+      "scripture": [
+        "Ecclesiasticus 33:16–18",
+        "Isaiah 22:13 and 1 Corinthians 15:32 (parallels added by editors)",
+        "Acts 17:16 (added by editors)",
+        "Mark 4:26–32 (added by editors)",
+        "Isaiah 53:2–3 (added by editors)",
+        "Matthew 12:19–20 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon XII, The Mission of St. Philip Neri, pp. 199–242.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n218/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-12.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-12.html"
+    },
+    {
+      "id": "newman-occasions-13",
+      "title": "The Tree beside the Waters",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 11 November 1859",
+        "earliest": 1859,
+        "latest": 1859,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Funeral of the Right Rev. H. Weedall",
+        "english_label": "Funeral of the Right Rev. H. Weedall"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Funeral sermons",
+        "Grace",
+        "Henry Weedall",
+        "Oscott College",
+        "Priesthood",
+        "Sacred Heart"
+      ],
+      "scripture": [
+        "Psalm 1:3",
+        "Job 29:18–23",
+        "Galatians 3:27–28 and Colossians 3:11 (printed together)",
+        "Apocalypse 22:1–2 (added by editors)",
+        "Psalm 1:1–2 (added by editors)",
+        "Canticle 2:3 (added by editors)",
+        "2 Timothy 4:7–8 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon XIII, The Tree beside the Waters, pp. 243–262.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n262/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-13.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-13.html"
+    },
+    {
+      "id": "newman-occasions-14",
+      "title": "In the World, but not of the World",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 5 May 1873",
+        "earliest": 1873,
+        "latest": 1873,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Funeral of James R. Hope Scott",
+        "english_label": "Funeral of James R. Hope Scott"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Conversion",
+        "Detachment",
+        "Friendship",
+        "Funeral sermons",
+        "James Hope Scott",
+        "Stewardship"
+      ],
+      "scripture": [
+        "1 John 2:17",
+        "Matthew 6:10 and 26:42 (parallels added by editors)",
+        "1 John 2:15 (added by editors)",
+        "Hebrews 12:22–24 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon XIV, In the World, but not of the World, pp. 263–280.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n282/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-14.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-14.html"
+    },
+    {
+      "id": "newman-occasions-15",
+      "title": "The Pope and the Revolution",
+      "author": "John Henry Newman",
+      "language": "en",
+      "language_label": "English",
+      "composition": {
+        "label": "Preached 7 October 1866",
+        "earliest": 1866,
+        "latest": 1866,
+        "approximate": false
+      },
+      "centuries": [
+        19
+      ],
+      "historical_occasion": {
+        "source_label": "Prayer for the Pope on the feast of the Holy Rosary",
+        "english_label": "Prayer for the Pope on the feast of the Holy Rosary"
+      },
+      "calendar_1962": null,
+      "topics": [
+        "Holy See",
+        "Papal States",
+        "Peter",
+        "Pius IX",
+        "Prayer",
+        "Temporal power"
+      ],
+      "scripture": [
+        "Matthew 16:18–19",
+        "Matthew 28:20 (added by editors)",
+        "Isaiah 59:21 (added by editors)",
+        "Daniel 2:44 (added by editors)",
+        "Acts 1:3–4 (added by editors)",
+        "Numbers 23:19 (added by editors)",
+        "Romans 11:29 (added by editors)",
+        "1 Kings 8:6–20 (modern 1 Samuel 8:6–20) (added by editors)",
+        "Ephesians 6:12–20 (added by editors)"
+      ],
+      "source": {
+        "citation": "John Henry Newman, Sermons Preached on Various Occasions, new impression (London, New York, and Bombay: Longmans, Green, and Co., 1904), sermon XV, The Pope and the Revolution, pp. 281–316.",
+        "edition_year": 1904,
+        "url": "https://archive.org/details/a4490592smrn00newmuoft/page/n300/mode/1up",
+        "digitization": "Internet Archive; Kelly, University of Toronto.",
+        "rights": "public-domain-underlying-edition",
+        "rights_territory": "US"
+      },
+      "text": {
+        "kind": "english-original",
+        "status": "source-checked",
+        "english": "English original",
+        "independent_ai_review": true,
+        "human_language_review": false
+      },
+      "path": "sermons/newman-occasions-15.html",
+      "url": "https://financeprofessormckee.github.io/Liturgical-Sermons/sermons/newman-occasions-15.html"
     }
   ]
 }

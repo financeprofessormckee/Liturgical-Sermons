@@ -48,7 +48,7 @@
     if (item && item.transferred_from) body.push(el("p", {text: "Transferred from " + format(item.transferred_from, {month: "long", day: "numeric"}) + "."}));
     if (item && item.also.length) body.push(el("p", {text: "Also today: " + item.also.map(other => other.title).join("; ") + "."}));
     if (day.exact.length) body.push(el("h3", {text: "Sermons for this day"}), sermonList(day.exact));
-    else body.push(el("p", {text: "The library has no sermon for this day."}));
+    else body.push(el("p", {text: day.seasonal.length ? "The library has no sermon specific to this day." : "The library has no sermon for this day."}));
     if (day.seasonal.length) body.push(el("h3", {text: "Sermons for " + day.season}), sermonList(day.seasonal));
     body.push(el("p", {class: "calendar-chant"}, el("a", {href: day.chant, text: "Chant for this day"})));
     card.dataset.colour = item ? item.colour : "none";

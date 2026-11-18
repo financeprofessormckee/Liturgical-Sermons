@@ -1073,6 +1073,50 @@
     "title": "On Predestination: Presumption and Despair",
     "author": "Louis Bourdaloue",
     "url": "sermons/bourdaloue-careme-predestination.html"
+   },
+   {
+    "id": "newman-mixed-15",
+    "title": "The Infinitude of the Divine Attributes",
+    "author": "John Henry Newman",
+    "url": "sermons/newman-mixed-15.html"
+   },
+   {
+    "id": "newman-mixed-16",
+    "title": "Mental Sufferings of Our Lord in His Passion",
+    "author": "John Henry Newman",
+    "url": "sermons/newman-mixed-16.html"
+   }
+  ],
+  "dayKey:puer-natus": [
+   {
+    "id": "guerric-nativity-01",
+    "title": "Nativity Sermon I: What God as a Child Teaches Us",
+    "author": "Guerric of Igny",
+    "url": "sermons/guerric-nativity-01.html"
+   },
+   {
+    "id": "guerric-nativity-02",
+    "title": "Nativity Sermon II: The Gift the Church Received When the Synagogue Spurned It",
+    "author": "Guerric of Igny",
+    "url": "sermons/guerric-nativity-02.html"
+   },
+   {
+    "id": "guerric-nativity-03",
+    "title": "Nativity Sermon III: On the Wonderful Exchange Between God and Man",
+    "author": "Guerric of Igny",
+    "url": "sermons/guerric-nativity-03.html"
+   },
+   {
+    "id": "guerric-nativity-04",
+    "title": "Nativity Sermon IV: On the Fullness of Time Brought by Christ",
+    "author": "Guerric of Igny",
+    "url": "sermons/guerric-nativity-04.html"
+   },
+   {
+    "id": "guerric-nativity-05",
+    "title": "Nativity Sermon V: On God's Wonderful Providence in the Birth of Christ",
+    "author": "Guerric of Igny",
+    "url": "sermons/guerric-nativity-05.html"
    }
   ],
   "seasonKey:season-christmas": [
@@ -1298,11 +1342,19 @@
     "author": "John Henry Newman",
     "url": "sermons/newman-occasions-01.html"
    }
+  ],
+  "dayKey:rosary": [
+   {
+    "id": "newman-occasions-15",
+    "title": "The Pope and the Revolution",
+    "author": "John Henry Newman",
+    "url": "sermons/newman-occasions-15.html"
+   }
   ]
  },
  "coverage": {
   "observances": 119,
-  "with_sermons": 22,
+  "with_sermons": 24,
   "without_sermons": [
    {
     "key": "ad-te-levavi",
@@ -1557,10 +1609,6 @@
     "title": "The Dedication of St. Michael the Archangel"
    },
    {
-    "key": "rosary",
-    "title": "Our Lady of the Rosary"
-   },
-   {
     "key": "motherhood-mary",
     "title": "The Motherhood of the Blessed Virgin Mary"
    },
@@ -1591,10 +1639,6 @@
    {
     "key": "christmas-vigil",
     "title": "Vigil of the Nativity of the Lord"
-   },
-   {
-    "key": "puer-natus",
-    "title": "The Nativity of the Lord"
    },
    {
     "key": "stephen",

@@ -4,6 +4,14 @@ Corrections and revisions made after publication, most recent first. Each entry
 gives the date, the sermon and passage affected, and the nature of the change.
 Changes to the site that do not touch the texts are listed briefly.
 
+## 2026-11-18
+
+- Site: Guerric of Igny's five Nativity sermons now appear on Christmas Day and
+  through Christmastide. Newman's "The Pope and the Revolution" appears on Our
+  Lady of the Rosary, and his two Passion-tide discourses appear in Lent and
+  Passiontide. Season lists on the calendar now match the season shown for the
+  day. No sermon text, translation, note or citation was changed.
+
 ## 2026-11-03
 
 - Site: reuse terms settled. English translations, introductions and notes are

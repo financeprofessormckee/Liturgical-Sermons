@@ -113,15 +113,19 @@
     return fromEaster <= 55 ? "Eastertide" : "Time after Pentecost";
   }
 
+  // The season list follows the label shown, so a heading never names one season over another's sermons.
+  const SEASON_KEYS = {Advent: "season-advent", Christmastide: "season-christmas", Lent: "season-lent", Passiontide: "season-lent"};
+
   function dayInfo(resolve, data, listing, date) {
-    const item = listing.byDate.get(date) || null, engine = resolve(date);
+    const item = listing.byDate.get(date) || null;
     const keys = item ? [item.key, ...item.also.map(other => other.key)] : [];
     const seen = new Set(), exact = [];
     for (const key of keys) for (const sermon of data.sermons["dayKey:" + key] || []) {
       if (!seen.has(sermon.id)) { seen.add(sermon.id); exact.push(sermon); }
     }
-    return {date, observance: item, season: seasonLabel(listing, date), exact,
-      seasonal: data.sermons["seasonKey:" + engine.seasonKey] || [],
+    const season = seasonLabel(listing, date);
+    const seasonal = (data.sermons["seasonKey:" + SEASON_KEYS[season]] || []).filter(sermon => !seen.has(sermon.id));
+    return {date, observance: item, season, exact, seasonal,
       chant: `${data.chant_url}?date=${date}&cal=1962`};
   }
 

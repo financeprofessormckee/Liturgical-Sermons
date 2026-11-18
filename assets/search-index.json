@@ -13411,8 +13411,8 @@
     },
     {
       "author": "Guerric of Igny",
-      "calendar": "seasonKey:season-christmas",
-      "calendar_label": "Christmastide",
+      "calendar": "dayKey:puer-natus",
+      "calendar_label": "The Nativity of the Lord",
       "centuries": [
         12
       ],
@@ -13546,8 +13546,8 @@
     },
     {
       "author": "Guerric of Igny",
-      "calendar": "seasonKey:season-christmas",
-      "calendar_label": "Christmastide",
+      "calendar": "dayKey:puer-natus",
+      "calendar_label": "The Nativity of the Lord",
       "centuries": [
         12
       ],
@@ -13652,8 +13652,8 @@
     },
     {
       "author": "Guerric of Igny",
-      "calendar": "seasonKey:season-christmas",
-      "calendar_label": "Christmastide",
+      "calendar": "dayKey:puer-natus",
+      "calendar_label": "The Nativity of the Lord",
       "centuries": [
         12
       ],
@@ -13791,8 +13791,8 @@
     },
     {
       "author": "Guerric of Igny",
-      "calendar": "seasonKey:season-christmas",
-      "calendar_label": "Christmastide",
+      "calendar": "dayKey:puer-natus",
+      "calendar_label": "The Nativity of the Lord",
       "centuries": [
         12
       ],
@@ -13938,8 +13938,8 @@
     },
     {
       "author": "Guerric of Igny",
-      "calendar": "seasonKey:season-christmas",
-      "calendar_label": "Christmastide",
+      "calendar": "dayKey:puer-natus",
+      "calendar_label": "The Nativity of the Lord",
       "centuries": [
         12
       ],
@@ -19410,8 +19410,8 @@
     },
     {
       "author": "John Henry Newman",
-      "calendar": "unassigned",
-      "calendar_label": "Unassigned",
+      "calendar": "seasonKey:season-lent",
+      "calendar_label": "Lent",
       "centuries": [
         19
       ],
@@ -19576,8 +19576,8 @@
     },
     {
       "author": "John Henry Newman",
-      "calendar": "unassigned",
-      "calendar_label": "Unassigned",
+      "calendar": "seasonKey:season-lent",
+      "calendar_label": "Lent",
       "centuries": [
         19
       ],
@@ -24459,8 +24459,8 @@
     },
     {
       "author": "John Henry Newman",
-      "calendar": "unassigned",
-      "calendar_label": "Unassigned",
+      "calendar": "dayKey:rosary",
+      "calendar_label": "Our Lady of the Rosary",
       "centuries": [
         19
       ],

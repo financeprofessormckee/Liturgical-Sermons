@@ -22,8 +22,9 @@
  *     solemnities (Assumption, All Saints, All Souls, Immaculate Conception) that
  *     the modern calendar already authors with identical Graduale chant text — see
  *     the FIXED map below. The rest of the 1962 *sanctoral* (saints' days), octaves,
- *     commemorations, and impeded-feast transfers are out of scope — intentional
- *     gaps, not bugs.
+ *     and commemorations are out of scope — intentional gaps, not bugs.
+ *   - Occurrence follows the 1960 rubrics where a feast meets a Sunday or is impeded:
+ *     see outranksSunday and transfersFor below.
  *   - Epiphany fixed to Jan 6; Ascension on Thursday; Corpus Christi on its Thursday;
  *     Christ the King on the last Sunday of October (the 1962 date).
  *
@@ -72,9 +73,12 @@
   // All Souls, Immaculate Conception) share identical Graduale chant text with
   // the modern calendar; everything else is wired incrementally via the DO
   // Sancti-file method documented in sources/gregobase/1962-sanctoral-worklist.md.
+  // outranksSunday marks the class I feasts and class II feasts of the Lord, the
+  // only ones that displace a class II Sunday under the 1960 rubrics. The Immaculate
+  // Conception alone also displaces a class I Sunday, the one of Advent it meets.
   var SANCTORAL_1962 = {
     "1-20": { key: "fabian-sebastian", title: "Sts. Fabian and Sebastian, Martyrs", rank: "Duplex", color: "red", link: "https://en.wikipedia.org/wiki/Saint_Sebastian" },
-    "2-2": { key: "candlemas", title: "The Purification of the Blessed Virgin Mary (Candlemas)", rank: "Feast", color: "white", link: "https://en.wikipedia.org/wiki/Presentation_of_Jesus_at_the_Temple" },
+    "2-2": { key: "candlemas", outranksSunday: true, title: "The Purification of the Blessed Virgin Mary (Candlemas)", rank: "Feast", color: "white", link: "https://en.wikipedia.org/wiki/Presentation_of_Jesus_at_the_Temple" },
     "2-12": { key: "seven-founders", title: "Ss. Seven Founders of the Servite Order, Confessors", rank: "Duplex", color: "white", link: "https://en.wikipedia.org/wiki/Seven_Holy_Founders_of_the_Servite_Order" },
     "2-24": { key: "common-apostles", orationsKey: "matthias", title: "St. Matthias, Apostle", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Matthias" },
     "3-19": { key: "joseph", title: "St. Joseph, Spouse of the Blessed Virgin Mary", rank: "Duplex I classis", color: "white", link: "https://en.wikipedia.org/wiki/Saint_Joseph" },
@@ -82,42 +86,85 @@
     "6-5": { key: "boniface", title: "St. Boniface, Bishop and Martyr", rank: "Duplex", color: "red", link: "https://en.wikipedia.org/wiki/Saint_Boniface" },
     "6-11": { key: "common-apostles", orationsKey: "barnabas", title: "St. Barnabas, Apostle", rank: "Duplex majus", color: "red", link: "https://en.wikipedia.org/wiki/Barnabas" },
     "6-23": { key: "john-baptist-vigil", title: "The Nativity of St. John the Baptist (Vigil)", rank: "Duplex II classis", color: "violet", link: "https://en.wikipedia.org/wiki/Nativity_of_John_the_Baptist" },
-    "6-24": { key: "john-baptist", title: "The Nativity of St. John the Baptist", rank: "Duplex I classis", color: "white", link: "https://en.wikipedia.org/wiki/Nativity_of_John_the_Baptist" },
+    "6-24": { key: "john-baptist", outranksSunday: true, title: "The Nativity of St. John the Baptist", rank: "Duplex I classis", color: "white", link: "https://en.wikipedia.org/wiki/Nativity_of_John_the_Baptist" },
     "6-28": { key: "peter-paul-vigil", title: "Sts. Peter and Paul, Apostles (Vigil)", rank: "Duplex II classis", color: "violet", link: "https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul" },
-    "6-29": { key: "peter-paul", title: "Sts. Peter and Paul, Apostles", rank: "Duplex I classis", color: "red", link: "https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul" },
+    "6-29": { key: "peter-paul", outranksSunday: true, title: "Sts. Peter and Paul, Apostles", rank: "Duplex I classis", color: "red", link: "https://en.wikipedia.org/wiki/Feast_of_Saints_Peter_and_Paul" },
     "7-2": { key: "visitation", title: "The Visitation of the Blessed Virgin Mary", rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/Visitation_(Christianity)" },
     "7-25": { key: "common-apostles", orationsKey: "james-apostle", title: "St. James, Apostle", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/James,_son_of_Zebedee" },
     "7-30": { key: "abdon-sennen", title: "Sts. Abdon and Sennen, Martyrs", rank: "Simplex", color: "red", link: "https://en.wikipedia.org/wiki/Abdon_and_Sennen" },
-    "8-6": { key: "transfiguration", title: "The Transfiguration of the Lord", rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus" },
+    "8-6": { key: "transfiguration", outranksSunday: true, title: "The Transfiguration of the Lord", rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus" },
     "8-10": { key: "lawrence", title: "St. Lawrence, Deacon and Martyr", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Lawrence_of_Rome" },
     "8-14": { key: "assumption-vigil", title: "The Assumption of the Blessed Virgin Mary (Vigil)", rank: "Simplex", color: "violet", link: "https://en.wikipedia.org/wiki/Assumption_of_Mary" },
-    "8-15": { key: "assumption", title: "The Assumption of the Blessed Virgin Mary", rank: "Solemnity", link: "https://en.wikipedia.org/wiki/Assumption_of_Mary" },
+    "8-15": { key: "assumption", outranksSunday: true, title: "The Assumption of the Blessed Virgin Mary", rank: "Solemnity", link: "https://en.wikipedia.org/wiki/Assumption_of_Mary" },
     "8-24": { key: "common-apostles", orationsKey: "bartholomew", title: "St. Bartholomew, Apostle", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle" },
     "9-8": { key: "nativity-mary", title: "The Nativity of the Blessed Virgin Mary", rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/Nativity_of_Mary" },
-    "9-14": { key: "triumph-cross", title: "The Exaltation of the Holy Cross", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Feast_of_the_Cross" },
+    "9-14": { key: "triumph-cross", outranksSunday: true, title: "The Exaltation of the Holy Cross", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Feast_of_the_Cross" },
     "9-15": { key: "sorrows", title: "The Seven Sorrows of the Blessed Virgin Mary", rank: "Feast", color: "white", link: "https://en.wikipedia.org/wiki/Our_Lady_of_Sorrows" },
     "9-21": { key: "matthew", title: "St. Matthew, Apostle and Evangelist", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Matthew_the_Apostle" },
-    "9-29": { key: "archangels", title: "Sts. Michael, Gabriel and Raphael, Archangels", rank: "Duplex I classis", color: "white", link: "https://en.wikipedia.org/wiki/Michaelmas" },
+    "9-29": { key: "archangels", outranksSunday: true, title: "Sts. Michael, Gabriel and Raphael, Archangels", rank: "Duplex I classis", color: "white", link: "https://en.wikipedia.org/wiki/Michaelmas" },
     "10-18": { key: "common-apostles", orationsKey: "luke", title: "St. Luke, Evangelist", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Luke_the_Evangelist" },
     "10-28": { key: "common-apostles", orationsKey: "simon-jude", title: "Sts. Simon and Jude, Apostles", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Jude_the_Apostle" },
-    "11-1": { key: "all-saints", title: "All Saints", rank: "Solemnity", link: "https://en.wikipedia.org/wiki/All_Saints%27_Day" },
+    "11-1": { key: "all-saints", outranksSunday: true, title: "All Saints", rank: "Solemnity", link: "https://en.wikipedia.org/wiki/All_Saints%27_Day" },
     "11-2": { key: "requiem", title: "The Commemoration of All the Faithful Departed (All Souls)",
       rank: "Feast", color: "violet", link: "https://en.wikipedia.org/wiki/All_Souls%27_Day" },
-    "11-9": { key: "dedication-lateran", title: "The Dedication of the Archbasilica of Our Savior (St. John Lateran)",
+    "11-9": { key: "dedication-lateran", outranksSunday: true, title: "The Dedication of the Archbasilica of Our Savior (St. John Lateran)",
       rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/Archbasilica_of_Saint_John_Lateran" },
     "11-14": { key: "josaphat", title: "St. Josaphat, Bishop and Martyr", rank: "Duplex", color: "red", link: "https://en.wikipedia.org/wiki/Josaphat_Kuntsevych" },
     "11-18": { key: "dedication-lateran", title: "The Dedication of the Basilicas of Sts. Peter and Paul, Apostles",
       rank: "Duplex majus", color: "white", link: "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica" },
     "11-30": { key: "andrew", title: "St. Andrew, Apostle", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Andrew_the_Apostle" },
-    "12-8": { key: "immaculate-conception", title: "The Immaculate Conception of the Blessed Virgin Mary",
+    "12-8": { key: "immaculate-conception", outranksSunday: true, title: "The Immaculate Conception of the Blessed Virgin Mary",
       rank: "Solemnity", link: "https://en.wikipedia.org/wiki/Immaculate_Conception" },
     "12-21": { key: "thomas-apostle", title: "St. Thomas, Apostle", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Thomas_the_Apostle" },
     "12-26": { key: "stephen", title: "St. Stephen, the First Martyr", rank: "Duplex II classis", color: "red", link: "https://en.wikipedia.org/wiki/Saint_Stephen" },
     "12-27": { key: "john-evangelist", title: "St. John, Apostle and Evangelist", rank: "Duplex II classis", color: "white", link: "https://en.wikipedia.org/wiki/John_the_Evangelist" },
     "12-28": { key: "holy-innocents", title: "The Holy Innocents, Martyrs", rank: "Duplex II classis", color: "violet", link: "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents" }
   };
+  function monthDay(date) { return (date.getUTCMonth() + 1) + "-" + date.getUTCDate(); }
+
+  // Feasts that move when impeded, the Annunciation first when two compete for a day.
+  var TRANSFERABLE_1962 = ["3-25", "3-19", "6-24", "6-29", "11-2"];
+  var transferCache = {};
+
+  // The class I temporal days a transferable feast can meet: Lent's Sundays, Holy
+  // Week through Low Sunday, Ascension, Pentecost's vigil through Trinity, Corpus
+  // Christi and the Sacred Heart.
+  function firstClassTemporal(date, A) {
+    var n = daysBetween(A.easter, date);
+    return (n >= -7 && n <= 7) || (dow(date) === 0 && n >= -42 && n < 0) ||
+      n === 39 || (n >= 48 && n <= 56) || n === 60 || n === 68;
+  }
+
+  // 1960 rubrics: an impeded class I feast moves to the next day free of any class I
+  // or II observance. All Souls yields only to a Sunday. Dates agree with Divinum
+  // Officium's Tabulae/Transfer tables for "1960".
+  function transfersFor(year) {
+    if (transferCache[year]) return transferCache[year];
+    var A = anchors(year), moves = { anchors: A, from: {}, to: {} };
+    function isFree(date) {
+      var feast = SANCTORAL_1962[monthDay(date)];
+      return dow(date) !== 0 && !firstClassTemporal(date, A) && !moves.to[iso(date)] &&
+        !(feast && /I+ classis|Solemnity|Feast/.test(feast.rank));
+    }
+    TRANSFERABLE_1962.forEach(function (md) {
+      var p = md.split("-"), date = ymd(year, Number(p[0]), Number(p[1]));
+      var feast = SANCTORAL_1962[md];
+      var impeded = feast.key === "requiem" ? dow(date) === 0 : firstClassTemporal(date, A);
+      if (!impeded) return;
+      var target = addDays(date, 1);
+      while (!isFree(target)) target = addDays(target, 1);
+      moves.from[iso(date)] = true;
+      moves.to[iso(target)] = feast;
+    });
+    transferCache[year] = moves;
+    return moves;
+  }
+
   function fixedFeast(date) {
-    return SANCTORAL_1962[(date.getUTCMonth() + 1) + "-" + date.getUTCDate()] || null;
+    var moves = transfersFor(date.getUTCFullYear()), day = iso(date);
+    if (moves.to[day]) return moves.to[day];
+    if (moves.from[day] || firstClassTemporal(date, moves.anchors)) return null;
+    return SANCTORAL_1962[monthDay(date)] || null;
   }
 
   // "Lesser" 1962 saints — well-known feasts/commemorations with no Mass propers
@@ -208,7 +255,8 @@
     "12-16": { key: "common-martyr-2", orationsKey: "eusebius", title: "St. Eusebius, Bishop and Martyr", rank: "Semiduplex", link: "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli" },
   };
   function lesserFeast(date) {
-    return LESSER_1962[(date.getUTCMonth() + 1) + "-" + date.getUTCDate()] || null;
+    if (firstClassTemporal(date, transfersFor(date.getUTCFullYear()).anchors)) return null;
+    return LESSER_1962[monthDay(date)] || null;
   }
 
   var ORDINAL = [
@@ -323,14 +371,15 @@
       if (aw === 2) akey = "populus-sion";
       else if (aw === 3) { akey = "gaudete"; acolor = "rose"; }
       else if (aw === 4) akey = "rorate";
-      // The Immaculate Conception (Dec 8) displaces an Advent weekday, but an
-      // Advent Sunday outranks it (mirrors calendar.js's Advent/sanctoral rule).
+      // Fixed feasts displace an Advent weekday. Only the Immaculate Conception
+      // (Dec 8) also displaces the Advent Sunday it falls on.
+      var adf = fixedFeast(date);
+      if (adf && (!isSun || adf.outranksSunday)) {
+        return out({ title: adf.title, season: "advent", seasonLabel: "Advent",
+          color: adf.color || "white", rank: adf.rank, dayKey: adf.key, orationsKey: adf.orationsKey, commonKey: adf.commonKey,
+          seasonKey: "season-advent", link: adf.link });
+      }
       if (!isSun) {
-        var adf = fixedFeast(date); if (adf) {
-          return out({ title: adf.title, season: "advent", seasonLabel: "Advent",
-            color: adf.color || "white", rank: adf.rank, dayKey: adf.key, orationsKey: adf.orationsKey, commonKey: adf.commonKey,
-            seasonKey: "season-advent", link: adf.link });
-        }
         var adl = lesserFeast(date); if (adl) {
           return out({ title: adl.title, season: "advent", seasonLabel: "Advent",
             color: adl.color || "white", rank: adl.rank, dayKey: adl.key, orationsKey: adl.orationsKey, commonKey: adl.commonKey,
@@ -383,12 +432,13 @@
       var es = sundayOnOrBefore(date);
       var en = 1 + weeksBetween(A.holyFamily, es); // Holy Family is the 1st after Epiphany
       var ekey = en <= 2 ? "epiph-2" : "epiph-3"; // 2nd = Omnis terra; 3rd–6th = Adorate Deum
+      var eef = fixedFeast(date);
+      if (eef && (!isSun || eef.outranksSunday)) {
+        return out({ title: eef.title, season: "ordinary", seasonLabel: "Time after Epiphany",
+          color: eef.color || "white", rank: eef.rank, dayKey: eef.key, orationsKey: eef.orationsKey, commonKey: eef.commonKey,
+          seasonKey: "season-ordinary", link: eef.link });
+      }
       if (!isSun) {
-        var eef = fixedFeast(date); if (eef) {
-          return out({ title: eef.title, season: "ordinary", seasonLabel: "Time after Epiphany",
-            color: eef.color || "white", rank: eef.rank, dayKey: eef.key, orationsKey: eef.orationsKey, commonKey: eef.commonKey,
-            seasonKey: "season-ordinary", link: eef.link });
-        }
         var eel = lesserFeast(date); if (eel) {
           return out({ title: eel.title, season: "ordinary", seasonLabel: "Time after Epiphany",
             color: eel.color || "white", rank: eel.rank, dayKey: eel.key, orationsKey: eel.orationsKey, commonKey: eel.commonKey,
@@ -406,12 +456,13 @@
       if (date < A.sexagesima) { skey = "septuagesima"; sname = "Septuagesima"; }
       else if (date < A.quinquagesima) { skey = "sexagesima"; sname = "Sexagesima"; }
       else { skey = "quinquagesima"; sname = "Quinquagesima"; }
+      var ssf = fixedFeast(date);
+      if (ssf && (!isSun || ssf.outranksSunday)) {
+        return out({ title: ssf.title, season: "lent", seasonLabel: "Septuagesima",
+          color: ssf.color || "white", rank: ssf.rank, dayKey: ssf.key, orationsKey: ssf.orationsKey, commonKey: ssf.commonKey,
+          seasonKey: "season-lent", link: ssf.link });
+      }
       if (!isSun) {
-        var ssf = fixedFeast(date); if (ssf) {
-          return out({ title: ssf.title, season: "lent", seasonLabel: "Septuagesima",
-            color: ssf.color || "white", rank: ssf.rank, dayKey: ssf.key, orationsKey: ssf.orationsKey, commonKey: ssf.commonKey,
-            seasonKey: "season-lent", link: ssf.link });
-        }
         var ssl = lesserFeast(date); if (ssl) {
           return out({ title: ssl.title, season: "lent", seasonLabel: "Septuagesima",
             color: ssl.color || "white", rank: ssl.rank, dayKey: ssl.key, orationsKey: ssl.orationsKey, commonKey: ssl.commonKey,
@@ -527,6 +578,10 @@
             seasonKey: "season-easter", link: ealf.link });
         }
       }
+      if (sameDay(date, addDays(A.pentecost, -1))) {
+        return out({ title: "The Vigil of Pentecost", season: "easter", seasonLabel: "Eastertide",
+          color: "red", sundayKey: "sunday-after-ascension", seasonKey: "season-easter" });
+      }
       // Eastertide Sundays/ferias by week index from Easter.
       var ew = weeksBetween(A.easterSun, sundayOnOrBefore(date));
       var EASTER_SUN = ["resurrexi", "quasimodo", "easter-misericordia", "easter-jubilate",
@@ -563,11 +618,15 @@
         dayKey: "christ-king", seasonKey: "season-ordinary",
         link: "https://en.wikipedia.org/wiki/Feast_of_Christ_the_King" });
     }
-    // The Assumption, All Saints, and All Souls outrank the green Sunday after
-    // Pentecost they fall on, as well as every weekday (mirrors calendar.js's
-    // Ordinary-Time sanctoral-precedence rule).
+    // The Octave of Pentecost: class I weekdays that keep Pentecost's red and chants.
+    if (date < A.trinity) {
+      return out({ title: WEEKDAY[dow(date)] + " in the Octave of Pentecost", season: "easter",
+        seasonLabel: "Eastertide", color: "red", sundayKey: "spiritus-domini", seasonKey: "season-easter" });
+    }
+    // Every fixed feast displaces a weekday here, but only an outranksSunday feast
+    // displaces the green Sunday after Pentecost it falls on.
     var pfe = fixedFeast(date);
-    if (pfe) {
+    if (pfe && (!isSun || pfe.outranksSunday)) {
       return out({ title: pfe.title, season: "ordinary", seasonLabel: "Time after Pentecost",
         color: pfe.color || "white", rank: pfe.rank, dayKey: pfe.key, orationsKey: pfe.orationsKey, commonKey: pfe.commonKey,
         seasonKey: "season-ordinary", link: pfe.link });

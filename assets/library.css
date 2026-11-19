@@ -100,6 +100,15 @@ details.apparatus>summary{font:.78rem/1.7 system-ui,sans-serif;padding:.35rem 0}
 .information-main select{margin:.5rem 0}
 .source-entry{border-top:1px solid var(--line);padding:1rem 0;margin-top:1.5rem;font-size:.85rem}
 .source-entry h2{font-size:1.2rem}
+.phone-text-switch{display:none}
+@media screen and (max-width:700px){
+  .reader[data-view=parallel] .phone-text-switch{display:flex;position:sticky;top:0;z-index:2;gap:.4rem;padding:.4rem 0;background:var(--paper);border-bottom:1px solid var(--line)}
+  .phone-text-switch button{flex:1 1 0;min-width:0;min-height:2.75rem;padding:.3rem .4rem;font:.78rem/1.25 system-ui,sans-serif;color:var(--ink);background:transparent;border:1px solid var(--line);border-radius:4px}
+  .phone-text-switch button[aria-pressed=true]{color:var(--paper);background:var(--accent);border-color:var(--accent)}
+  .reader[data-view=parallel][data-phone-text=english] .has-phone-switch>.original-text,.reader[data-view=parallel][data-phone-text=original] .has-phone-switch>.english-text{display:none}
+  .reader[data-view=parallel] .has-phone-switch>div>.language-label{display:none}
+  .reader[data-view=parallel] .has-phone-switch>.english-text{border-top:0;padding-top:0}
+}
 @media(max-width:900px){.ways-in{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.calendar-panel,.author-panel{padding:1rem}.site-header{align-items:flex-start}}
 @media(max-width:700px){
   .site-header nav{margin-top:.8rem;gap:.5rem 1rem}

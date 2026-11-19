@@ -1063,6 +1063,12 @@
     "url": "sermons/bourdaloue-careme-communion.html"
    },
    {
+    "id": "bourdaloue-careme-impenitence",
+    "title": "On Final Impenitence",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-impenitence.html"
+   },
+   {
     "id": "bourdaloue-careme-priere",
     "title": "On Prayer",
     "author": "Louis Bourdaloue",
@@ -1073,6 +1079,24 @@
     "title": "On Predestination: Presumption and Despair",
     "author": "Louis Bourdaloue",
     "url": "sermons/bourdaloue-careme-predestination.html"
+   },
+   {
+    "id": "bourdaloue-careme-religion",
+    "title": "On Religion",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-religion.html"
+   },
+   {
+    "id": "bourdaloue-careme-tentations",
+    "title": "On Temptations",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-tentations.html"
+   },
+   {
+    "id": "bourdaloue-careme-loi",
+    "title": "On the Law of Christ",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-loi.html"
    },
    {
     "id": "newman-mixed-15",
@@ -1257,6 +1281,14 @@
     "url": "sermons/guerric-peter-paul-03.html"
    }
   ],
+  "dayKey:lent-1": [
+   {
+    "id": "bourdaloue-careme-tentations",
+    "title": "On Temptations",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-tentations.html"
+   }
+  ],
   "dayKey:cibavit": [
    {
     "id": "bourdaloue-mysteres-sacrement",
@@ -1271,6 +1303,20 @@
     "title": "On the Ceremony of Ashes",
     "author": "Louis Bourdaloue",
     "url": "sermons/bourdaloue-cendres-ceremonie.html"
+   },
+   {
+    "id": "bourdaloue-careme-mort",
+    "title": "On the Thoughts of Death",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-mort.html"
+   }
+  ],
+  "dayKey:lent-2": [
+   {
+    "id": "bourdaloue-careme-loi",
+    "title": "On the Law of Christ",
+    "author": "Louis Bourdaloue",
+    "url": "sermons/bourdaloue-careme-loi.html"
    }
   ],
   "dayKey:trinity": [
@@ -1354,7 +1400,7 @@
  },
  "coverage": {
   "observances": 119,
-  "with_sermons": 24,
+  "with_sermons": 26,
   "without_sermons": [
    {
     "key": "ad-te-levavi",
@@ -1379,14 +1425,6 @@
    {
     "key": "quinquagesima",
     "title": "Quinquagesima Sunday"
-   },
-   {
-    "key": "lent-1",
-    "title": "First Sunday of Lent"
-   },
-   {
-    "key": "lent-2",
-    "title": "Second Sunday of Lent"
    },
    {
     "key": "lent-3",

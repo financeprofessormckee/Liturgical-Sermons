@@ -24,6 +24,42 @@
     preference === 'ai' ? 'ai' : preference === 'historical' && historicalVersion ? historicalVersion :
     availableVersions.includes(reader.dataset.defaultTranslation) ? reader.dataset.defaultTranslation : 'ai';
   let activeView;
+  const phoneButtons = [];
+  function showPhoneText(side) {
+    reader.dataset.phoneText = side;
+    phoneButtons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.side === side)));
+  }
+  function choosePhoneText(side, pair, button) {
+    const anchor = button.getBoundingClientRect().top;
+    const before = pair.getBoundingClientRect();
+    const progress = Math.min(1, Math.max(0, (anchor - before.top) / (before.height || 1)));
+    showPhoneText(side);
+    const after = pair.getBoundingClientRect();
+    window.scrollBy(0, after.top + progress * after.height - anchor);
+  }
+  function addPhoneSwitches() {
+    if (!translated) return;
+    for (const pair of reader.querySelectorAll('.reading-block .text-pair')) {
+      const original = pair.querySelector?.(':scope > .original-text');
+      const english = pair.querySelector?.(':scope > .english-text');
+      if (!original || !english || pair.closest?.('.note')) continue;
+      const group = document.createElement('div');
+      group.className = 'phone-text-switch';
+      group.setAttribute('role', 'group');
+      group.setAttribute('aria-label', 'Text shown');
+      for (const [side, text] of [['original', original], ['english', english]]) {
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.dataset.side = side;
+        button.textContent = text.querySelector('.language-label')?.textContent || side;
+        button.addEventListener('click', () => choosePhoneText(side, pair, button));
+        phoneButtons.push(button);
+        group.append(button);
+      }
+      pair.classList.add('has-phone-switch');
+      pair.prepend(group);
+    }
+  }
   function showTranslation() {
     reader.dataset.translation = activeTranslation;
     if (translationSelect) translationSelect.value = activeTranslation;
@@ -71,6 +107,10 @@
         change('original');
         return;
       }
+      if (reader.dataset.view === 'parallel') {
+        if (target.closest?.('.original-text')) showPhoneText('original');
+        else if (target.closest?.('.english-text')) showPhoneText('english');
+      }
       for (let parent = target; parent; parent = parent.parentElement) {
         if (parent.tagName === "DETAILS") parent.open = true;
       }
@@ -115,6 +155,8 @@
     history.replaceState(null, "", next);
     apply(view);
   }
+  addPhoneSwitches();
+  showPhoneText('english');
   apply(params.get("view"));
   controls.hidden = false;
   if (translationSelect) {

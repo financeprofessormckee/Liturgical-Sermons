@@ -6,6 +6,12 @@ Changes to the site that do not touch the texts are listed briefly.
 
 ## 2026-11-18
 
+- Added five Lent sermons by Louis Bourdaloue: On the Thoughts of Death, On
+  Temptation, On the Christian Religion, On the Law of Christ and On Final
+  Impenitence. Each has A. Carroll's 1843 English and an AI translation.
+- Site: on phones, Original & English now shows one language per passage, with a
+  switch at the top of the screen. No sermon text, translation, note or citation
+  was changed.
 - Site: Guerric of Igny's five Nativity sermons now appear on Christmas Day and
   through Christmastide. Newman's "The Pope and the Revolution" appears on Our
   Lady of the Rosary, and his two Passion-tide discourses appear in Lent and
